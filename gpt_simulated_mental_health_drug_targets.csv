@@ -1,0 +1,1001 @@
+Drug_Name,Target_Gene,Target_Protein,Condition,Therapeutic_Class,Mechanism_of_Action,Clinical_Trial_Phase,Status
+Drug_1,Gene_232,Protein_41,Psychosis,Glycine Modulator,Mechanism_89,Approved,Investigational
+Drug_2,Gene_3,Protein_97,Depression,Atypical Antipsychotic,Mechanism_76,Phase 3,Experimental
+Drug_3,Gene_55,Protein_11,Depression,SNRI,Mechanism_77,Preclinical,Investigational
+Drug_4,Gene_27,Protein_194,Anxiety,Glycine Modulator,Mechanism_63,Phase 3,Investigational
+Drug_5,Gene_366,Protein_196,Depression,Beta-Blocker,Mechanism_69,Phase 2,Investigational
+Drug_6,Gene_280,Protein_189,Depression,NDRI,Mechanism_173,Phase 1,Experimental
+Drug_7,Gene_138,Protein_291,Psychosis,Psychedelic,Mechanism_4,Phase 3,Experimental
+Drug_8,Gene_466,Protein_128,Psychosis,Benzodiazepine,Mechanism_76,Approved,Investigational
+Drug_9,Gene_119,Protein_82,Psychosis,NDRI,Mechanism_47,Phase 3,Investigational
+Drug_10,Gene_267,Protein_228,Anxiety,Glycine Modulator,Mechanism_178,Approved,Experimental
+Drug_11,Gene_419,Protein_28,Depression,Beta-Blocker,Mechanism_168,Phase 1,Approved
+Drug_12,Gene_243,Protein_33,Depression,Beta-Blocker,Mechanism_62,Phase 3,Investigational
+Drug_13,Gene_56,Protein_223,Depression,Glycine Modulator,Mechanism_10,Phase 2,Investigational
+Drug_14,Gene_336,Protein_82,Depression,Orexin Antagonist,Mechanism_81,Approved,Experimental
+Drug_15,Gene_5,Protein_191,Depression,Atypical Antipsychotic,Mechanism_150,Preclinical,Experimental
+Drug_16,Gene_111,Protein_59,Psychosis,Atypical Antipsychotic,Mechanism_34,Phase 3,Experimental
+Drug_17,Gene_90,Protein_198,Depression,Orexin Antagonist,Mechanism_106,Phase 2,Approved
+Drug_18,Gene_158,Protein_211,Anxiety,Beta-Blocker,Mechanism_68,Phase 2,Approved
+Drug_19,Gene_183,Protein_282,Depression,Glutamatergic Modulator,Mechanism_131,Phase 2,Investigational
+Drug_20,Gene_298,Protein_213,Anxiety,Psychedelic,Mechanism_13,Preclinical,Investigational
+Drug_21,Gene_275,Protein_269,Depression,Glutamatergic Modulator,Mechanism_64,Phase 3,Investigational
+Drug_22,Gene_287,Protein_106,Depression,Benzodiazepine,Mechanism_140,Phase 2,Experimental
+Drug_23,Gene_428,Protein_15,Depression,Benzodiazepine,Mechanism_139,Phase 1,Experimental
+Drug_24,Gene_488,Protein_164,Depression,Benzodiazepine,Mechanism_140,Approved,Investigational
+Drug_25,Gene_441,Protein_281,Anxiety,Azapirone,Mechanism_11,Phase 1,Experimental
+Drug_26,Gene_202,Protein_147,Psychosis,Beta-Blocker,Mechanism_118,Approved,Experimental
+Drug_27,Gene_101,Protein_297,Depression,Benzodiazepine,Mechanism_181,Approved,Experimental
+Drug_28,Gene_70,Protein_226,Psychosis,NaSSA,Mechanism_106,Phase 3,Approved
+Drug_29,Gene_108,Protein_260,Depression,Orexin Antagonist,Mechanism_191,Preclinical,Experimental
+Drug_30,Gene_119,Protein_129,Psychosis,NaSSA,Mechanism_2,Preclinical,Approved
+Drug_31,Gene_359,Protein_274,Depression,Orexin Antagonist,Mechanism_200,Phase 1,Experimental
+Drug_32,Gene_101,Protein_163,Anxiety,Orexin Antagonist,Mechanism_40,Phase 2,Approved
+Drug_33,Gene_175,Protein_194,Depression,SNRI,Mechanism_97,Approved,Approved
+Drug_34,Gene_138,Protein_133,Anxiety,Atypical Antipsychotic,Mechanism_173,Preclinical,Investigational
+Drug_35,Gene_472,Protein_185,Anxiety,Azapirone,Mechanism_160,Phase 3,Experimental
+Drug_36,Gene_438,Protein_198,Depression,Orexin Antagonist,Mechanism_14,Phase 3,Investigational
+Drug_37,Gene_214,Protein_110,Anxiety,Azapirone,Mechanism_140,Phase 3,Experimental
+Drug_38,Gene_207,Protein_211,Psychosis,Glutamatergic Modulator,Mechanism_136,Phase 1,Experimental
+Drug_39,Gene_71,Protein_209,Psychosis,Psychedelic,Mechanism_29,Phase 2,Experimental
+Drug_40,Gene_459,Protein_118,Depression,Glutamatergic Modulator,Mechanism_114,Phase 1,Approved
+Drug_41,Gene_476,Protein_291,Depression,Psychedelic,Mechanism_98,Phase 2,Approved
+Drug_42,Gene_88,Protein_53,Depression,NaSSA,Mechanism_162,Approved,Investigational
+Drug_43,Gene_482,Protein_12,Depression,Azapirone,Mechanism_95,Preclinical,Approved
+Drug_44,Gene_315,Protein_121,Psychosis,Beta-Blocker,Mechanism_150,Phase 3,Experimental
+Drug_45,Gene_326,Protein_281,Psychosis,SSRI,Mechanism_151,Approved,Experimental
+Drug_46,Gene_353,Protein_239,Psychosis,Azapirone,Mechanism_71,Phase 1,Approved
+Drug_47,Gene_108,Protein_239,Anxiety,Orexin Antagonist,Mechanism_36,Phase 2,Approved
+Drug_48,Gene_428,Protein_254,Anxiety,Benzodiazepine,Mechanism_96,Approved,Investigational
+Drug_49,Gene_494,Protein_54,Anxiety,Glycine Modulator,Mechanism_45,Approved,Investigational
+Drug_50,Gene_110,Protein_143,Anxiety,Atypical Antipsychotic,Mechanism_135,Phase 1,Experimental
+Drug_51,Gene_91,Protein_169,Psychosis,Orexin Antagonist,Mechanism_76,Preclinical,Approved
+Drug_52,Gene_283,Protein_200,Anxiety,NaSSA,Mechanism_92,Phase 3,Experimental
+Drug_53,Gene_176,Protein_253,Psychosis,SSRI,Mechanism_105,Phase 3,Investigational
+Drug_54,Gene_447,Protein_296,Psychosis,SSRI,Mechanism_162,Preclinical,Approved
+Drug_55,Gene_107,Protein_241,Depression,Azapirone,Mechanism_42,Phase 3,Experimental
+Drug_56,Gene_362,Protein_228,Anxiety,Atypical Antipsychotic,Mechanism_177,Preclinical,Experimental
+Drug_57,Gene_339,Protein_172,Depression,SNRI,Mechanism_186,Preclinical,Investigational
+Drug_58,Gene_168,Protein_140,Depression,Atypical Antipsychotic,Mechanism_54,Preclinical,Experimental
+Drug_59,Gene_25,Protein_161,Depression,Glutamatergic Modulator,Mechanism_144,Preclinical,Investigational
+Drug_60,Gene_90,Protein_162,Depression,NDRI,Mechanism_195,Preclinical,Approved
+Drug_61,Gene_340,Protein_193,Anxiety,Beta-Blocker,Mechanism_74,Preclinical,Experimental
+Drug_62,Gene_170,Protein_257,Anxiety,Atypical Antipsychotic,Mechanism_164,Phase 3,Investigational
+Drug_63,Gene_477,Protein_225,Depression,NaSSA,Mechanism_191,Phase 2,Approved
+Drug_64,Gene_380,Protein_191,Psychosis,Atypical Antipsychotic,Mechanism_140,Phase 1,Investigational
+Drug_65,Gene_62,Protein_73,Anxiety,Psychedelic,Mechanism_138,Phase 3,Approved
+Drug_66,Gene_212,Protein_219,Psychosis,SNRI,Mechanism_64,Phase 3,Experimental
+Drug_67,Gene_252,Protein_36,Depression,SSRI,Mechanism_129,Preclinical,Experimental
+Drug_68,Gene_331,Protein_129,Psychosis,Orexin Antagonist,Mechanism_20,Approved,Investigational
+Drug_69,Gene_16,Protein_255,Anxiety,Benzodiazepine,Mechanism_50,Phase 1,Investigational
+Drug_70,Gene_244,Protein_253,Depression,Atypical Antipsychotic,Mechanism_143,Phase 2,Experimental
+Drug_71,Gene_304,Protein_115,Psychosis,Atypical Antipsychotic,Mechanism_191,Preclinical,Approved
+Drug_72,Gene_176,Protein_267,Depression,Atypical Antipsychotic,Mechanism_167,Phase 1,Investigational
+Drug_73,Gene_264,Protein_48,Depression,Azapirone,Mechanism_63,Phase 1,Experimental
+Drug_74,Gene_316,Protein_231,Anxiety,Glycine Modulator,Mechanism_199,Phase 3,Approved
+Drug_75,Gene_335,Protein_57,Psychosis,Benzodiazepine,Mechanism_84,Phase 1,Approved
+Drug_76,Gene_83,Protein_146,Psychosis,SNRI,Mechanism_114,Preclinical,Experimental
+Drug_77,Gene_127,Protein_198,Anxiety,Atypical Antipsychotic,Mechanism_118,Phase 3,Experimental
+Drug_78,Gene_151,Protein_138,Depression,NDRI,Mechanism_130,Approved,Experimental
+Drug_79,Gene_130,Protein_234,Depression,Glycine Modulator,Mechanism_140,Phase 1,Investigational
+Drug_80,Gene_212,Protein_131,Psychosis,NDRI,Mechanism_17,Phase 2,Approved
+Drug_81,Gene_449,Protein_300,Psychosis,Beta-Blocker,Mechanism_165,Phase 3,Experimental
+Drug_82,Gene_155,Protein_53,Depression,SNRI,Mechanism_122,Approved,Experimental
+Drug_83,Gene_134,Protein_249,Depression,Azapirone,Mechanism_171,Preclinical,Investigational
+Drug_84,Gene_136,Protein_275,Depression,NaSSA,Mechanism_49,Preclinical,Approved
+Drug_85,Gene_497,Protein_161,Psychosis,SSRI,Mechanism_171,Phase 1,Experimental
+Drug_86,Gene_283,Protein_201,Psychosis,SSRI,Mechanism_82,Approved,Experimental
+Drug_87,Gene_83,Protein_209,Depression,Glycine Modulator,Mechanism_111,Phase 3,Investigational
+Drug_88,Gene_206,Protein_89,Psychosis,Glutamatergic Modulator,Mechanism_124,Preclinical,Investigational
+Drug_89,Gene_275,Protein_115,Anxiety,Glycine Modulator,Mechanism_183,Approved,Experimental
+Drug_90,Gene_66,Protein_142,Psychosis,Benzodiazepine,Mechanism_68,Phase 1,Approved
+Drug_91,Gene_196,Protein_66,Depression,Orexin Antagonist,Mechanism_144,Approved,Approved
+Drug_92,Gene_168,Protein_39,Depression,Beta-Blocker,Mechanism_37,Phase 3,Approved
+Drug_93,Gene_491,Protein_199,Anxiety,Beta-Blocker,Mechanism_196,Phase 3,Investigational
+Drug_94,Gene_149,Protein_123,Psychosis,SNRI,Mechanism_51,Preclinical,Experimental
+Drug_95,Gene_371,Protein_151,Psychosis,Orexin Antagonist,Mechanism_172,Phase 3,Investigational
+Drug_96,Gene_72,Protein_203,Anxiety,SSRI,Mechanism_120,Phase 1,Experimental
+Drug_97,Gene_263,Protein_160,Anxiety,SNRI,Mechanism_92,Preclinical,Experimental
+Drug_98,Gene_345,Protein_260,Depression,Benzodiazepine,Mechanism_124,Phase 1,Approved
+Drug_99,Gene_37,Protein_220,Psychosis,Orexin Antagonist,Mechanism_81,Phase 2,Investigational
+Drug_100,Gene_156,Protein_49,Psychosis,Atypical Antipsychotic,Mechanism_40,Phase 3,Investigational
+Drug_101,Gene_405,Protein_33,Psychosis,Azapirone,Mechanism_11,Phase 1,Approved
+Drug_102,Gene_59,Protein_83,Anxiety,Glycine Modulator,Mechanism_104,Approved,Investigational
+Drug_103,Gene_442,Protein_121,Depression,Atypical Antipsychotic,Mechanism_191,Preclinical,Experimental
+Drug_104,Gene_358,Protein_237,Depression,SSRI,Mechanism_38,Approved,Investigational
+Drug_105,Gene_49,Protein_211,Depression,NDRI,Mechanism_43,Phase 2,Experimental
+Drug_106,Gene_384,Protein_278,Depression,Benzodiazepine,Mechanism_75,Phase 1,Experimental
+Drug_107,Gene_60,Protein_182,Psychosis,Beta-Blocker,Mechanism_86,Phase 1,Investigational
+Drug_108,Gene_195,Protein_274,Anxiety,Atypical Antipsychotic,Mechanism_133,Approved,Investigational
+Drug_109,Gene_177,Protein_166,Depression,SNRI,Mechanism_18,Phase 2,Investigational
+Drug_110,Gene_182,Protein_159,Depression,SNRI,Mechanism_155,Preclinical,Experimental
+Drug_111,Gene_291,Protein_212,Anxiety,SSRI,Mechanism_94,Phase 3,Investigational
+Drug_112,Gene_356,Protein_158,Depression,Glutamatergic Modulator,Mechanism_167,Approved,Experimental
+Drug_113,Gene_56,Protein_45,Psychosis,Benzodiazepine,Mechanism_86,Phase 2,Experimental
+Drug_114,Gene_477,Protein_242,Psychosis,SSRI,Mechanism_56,Phase 3,Investigational
+Drug_115,Gene_217,Protein_83,Psychosis,Beta-Blocker,Mechanism_134,Phase 3,Investigational
+Drug_116,Gene_131,Protein_250,Depression,Psychedelic,Mechanism_109,Preclinical,Experimental
+Drug_117,Gene_488,Protein_157,Depression,NDRI,Mechanism_68,Phase 2,Investigational
+Drug_118,Gene_293,Protein_216,Psychosis,Orexin Antagonist,Mechanism_128,Phase 1,Experimental
+Drug_119,Gene_31,Protein_207,Anxiety,Azapirone,Mechanism_73,Phase 1,Investigational
+Drug_120,Gene_251,Protein_274,Psychosis,NaSSA,Mechanism_77,Phase 1,Experimental
+Drug_121,Gene_484,Protein_192,Anxiety,Benzodiazepine,Mechanism_191,Preclinical,Experimental
+Drug_122,Gene_174,Protein_132,Psychosis,Atypical Antipsychotic,Mechanism_65,Approved,Investigational
+Drug_123,Gene_19,Protein_21,Anxiety,SNRI,Mechanism_159,Phase 2,Approved
+Drug_124,Gene_138,Protein_116,Depression,NaSSA,Mechanism_181,Phase 2,Experimental
+Drug_125,Gene_254,Protein_182,Depression,Glycine Modulator,Mechanism_100,Phase 2,Investigational
+Drug_126,Gene_273,Protein_38,Anxiety,Glycine Modulator,Mechanism_44,Phase 1,Approved
+Drug_127,Gene_11,Protein_125,Psychosis,Glutamatergic Modulator,Mechanism_113,Phase 3,Investigational
+Drug_128,Gene_492,Protein_49,Anxiety,Psychedelic,Mechanism_153,Approved,Investigational
+Drug_129,Gene_211,Protein_178,Psychosis,SSRI,Mechanism_48,Phase 2,Approved
+Drug_130,Gene_454,Protein_97,Anxiety,Glutamatergic Modulator,Mechanism_78,Phase 3,Experimental
+Drug_131,Gene_424,Protein_46,Psychosis,Glutamatergic Modulator,Mechanism_122,Phase 1,Investigational
+Drug_132,Gene_385,Protein_195,Anxiety,Glutamatergic Modulator,Mechanism_117,Preclinical,Approved
+Drug_133,Gene_85,Protein_100,Psychosis,NaSSA,Mechanism_90,Phase 1,Experimental
+Drug_134,Gene_96,Protein_58,Depression,Glycine Modulator,Mechanism_153,Phase 1,Investigational
+Drug_135,Gene_132,Protein_32,Depression,Beta-Blocker,Mechanism_128,Approved,Approved
+Drug_136,Gene_70,Protein_102,Psychosis,Glutamatergic Modulator,Mechanism_1,Approved,Experimental
+Drug_137,Gene_149,Protein_96,Depression,SSRI,Mechanism_28,Phase 2,Investigational
+Drug_138,Gene_393,Protein_117,Psychosis,Glycine Modulator,Mechanism_142,Phase 2,Experimental
+Drug_139,Gene_118,Protein_9,Psychosis,Glycine Modulator,Mechanism_107,Phase 2,Experimental
+Drug_140,Gene_368,Protein_100,Psychosis,Azapirone,Mechanism_192,Approved,Experimental
+Drug_141,Gene_406,Protein_248,Psychosis,Orexin Antagonist,Mechanism_148,Preclinical,Approved
+Drug_142,Gene_1,Protein_63,Psychosis,Azapirone,Mechanism_82,Preclinical,Experimental
+Drug_143,Gene_133,Protein_127,Anxiety,Orexin Antagonist,Mechanism_100,Phase 3,Investigational
+Drug_144,Gene_420,Protein_128,Anxiety,NDRI,Mechanism_63,Phase 2,Experimental
+Drug_145,Gene_85,Protein_146,Anxiety,NaSSA,Mechanism_65,Phase 2,Experimental
+Drug_146,Gene_78,Protein_110,Psychosis,NaSSA,Mechanism_161,Phase 2,Experimental
+Drug_147,Gene_151,Protein_151,Depression,NaSSA,Mechanism_122,Phase 2,Approved
+Drug_148,Gene_288,Protein_201,Anxiety,NaSSA,Mechanism_9,Approved,Experimental
+Drug_149,Gene_83,Protein_281,Psychosis,NDRI,Mechanism_41,Phase 2,Approved
+Drug_150,Gene_50,Protein_120,Anxiety,Benzodiazepine,Mechanism_94,Preclinical,Experimental
+Drug_151,Gene_395,Protein_118,Psychosis,Glycine Modulator,Mechanism_193,Phase 1,Experimental
+Drug_152,Gene_67,Protein_263,Psychosis,Benzodiazepine,Mechanism_189,Phase 1,Approved
+Drug_153,Gene_475,Protein_293,Psychosis,Azapirone,Mechanism_163,Preclinical,Experimental
+Drug_154,Gene_85,Protein_136,Anxiety,SSRI,Mechanism_198,Phase 2,Experimental
+Drug_155,Gene_144,Protein_185,Depression,Psychedelic,Mechanism_131,Preclinical,Experimental
+Drug_156,Gene_487,Protein_221,Depression,Psychedelic,Mechanism_46,Preclinical,Experimental
+Drug_157,Gene_166,Protein_292,Depression,NDRI,Mechanism_80,Phase 3,Investigational
+Drug_158,Gene_426,Protein_176,Depression,Benzodiazepine,Mechanism_55,Phase 3,Approved
+Drug_159,Gene_181,Protein_158,Anxiety,Glutamatergic Modulator,Mechanism_83,Preclinical,Investigational
+Drug_160,Gene_450,Protein_61,Psychosis,Azapirone,Mechanism_100,Approved,Investigational
+Drug_161,Gene_251,Protein_208,Depression,Glutamatergic Modulator,Mechanism_195,Phase 1,Approved
+Drug_162,Gene_421,Protein_89,Depression,Psychedelic,Mechanism_94,Phase 1,Approved
+Drug_163,Gene_133,Protein_13,Anxiety,SSRI,Mechanism_72,Preclinical,Investigational
+Drug_164,Gene_273,Protein_295,Depression,NaSSA,Mechanism_105,Phase 2,Approved
+Drug_165,Gene_185,Protein_130,Psychosis,Azapirone,Mechanism_81,Phase 2,Experimental
+Drug_166,Gene_238,Protein_207,Depression,NDRI,Mechanism_158,Approved,Approved
+Drug_167,Gene_358,Protein_18,Psychosis,NaSSA,Mechanism_152,Phase 2,Experimental
+Drug_168,Gene_103,Protein_299,Psychosis,Orexin Antagonist,Mechanism_27,Approved,Investigational
+Drug_169,Gene_60,Protein_1,Psychosis,Beta-Blocker,Mechanism_191,Phase 3,Approved
+Drug_170,Gene_182,Protein_285,Depression,Psychedelic,Mechanism_184,Phase 2,Experimental
+Drug_171,Gene_46,Protein_125,Anxiety,Azapirone,Mechanism_170,Preclinical,Experimental
+Drug_172,Gene_29,Protein_59,Depression,Glycine Modulator,Mechanism_112,Phase 1,Investigational
+Drug_173,Gene_134,Protein_100,Depression,Azapirone,Mechanism_160,Phase 1,Investigational
+Drug_174,Gene_253,Protein_190,Depression,Azapirone,Mechanism_71,Phase 1,Approved
+Drug_175,Gene_36,Protein_197,Anxiety,Glutamatergic Modulator,Mechanism_122,Preclinical,Experimental
+Drug_176,Gene_81,Protein_75,Anxiety,SSRI,Mechanism_99,Phase 3,Investigational
+Drug_177,Gene_395,Protein_124,Depression,Psychedelic,Mechanism_132,Preclinical,Experimental
+Drug_178,Gene_393,Protein_294,Psychosis,Orexin Antagonist,Mechanism_141,Phase 2,Investigational
+Drug_179,Gene_196,Protein_51,Psychosis,Glutamatergic Modulator,Mechanism_96,Approved,Approved
+Drug_180,Gene_376,Protein_205,Anxiety,SNRI,Mechanism_105,Preclinical,Investigational
+Drug_181,Gene_494,Protein_153,Psychosis,Azapirone,Mechanism_118,Phase 1,Approved
+Drug_182,Gene_481,Protein_66,Depression,SNRI,Mechanism_166,Approved,Investigational
+Drug_183,Gene_457,Protein_79,Depression,Beta-Blocker,Mechanism_47,Preclinical,Investigational
+Drug_184,Gene_219,Protein_179,Psychosis,SNRI,Mechanism_127,Phase 2,Approved
+Drug_185,Gene_13,Protein_189,Psychosis,SNRI,Mechanism_107,Preclinical,Approved
+Drug_186,Gene_500,Protein_266,Depression,NaSSA,Mechanism_87,Approved,Investigational
+Drug_187,Gene_336,Protein_55,Anxiety,SSRI,Mechanism_47,Phase 3,Investigational
+Drug_188,Gene_492,Protein_147,Anxiety,Beta-Blocker,Mechanism_3,Phase 3,Investigational
+Drug_189,Gene_125,Protein_32,Psychosis,Orexin Antagonist,Mechanism_65,Approved,Approved
+Drug_190,Gene_341,Protein_127,Depression,Azapirone,Mechanism_122,Phase 3,Experimental
+Drug_191,Gene_74,Protein_270,Depression,SSRI,Mechanism_61,Preclinical,Experimental
+Drug_192,Gene_36,Protein_261,Depression,Atypical Antipsychotic,Mechanism_111,Phase 2,Approved
+Drug_193,Gene_485,Protein_21,Depression,SNRI,Mechanism_171,Phase 2,Investigational
+Drug_194,Gene_99,Protein_60,Psychosis,NaSSA,Mechanism_153,Preclinical,Experimental
+Drug_195,Gene_149,Protein_75,Psychosis,Beta-Blocker,Mechanism_153,Approved,Investigational
+Drug_196,Gene_347,Protein_149,Depression,Benzodiazepine,Mechanism_145,Approved,Experimental
+Drug_197,Gene_119,Protein_255,Depression,Beta-Blocker,Mechanism_115,Approved,Experimental
+Drug_198,Gene_267,Protein_246,Psychosis,Glycine Modulator,Mechanism_125,Phase 2,Approved
+Drug_199,Gene_314,Protein_249,Psychosis,Psychedelic,Mechanism_147,Phase 1,Investigational
+Drug_200,Gene_441,Protein_113,Depression,Orexin Antagonist,Mechanism_51,Preclinical,Experimental
+Drug_201,Gene_140,Protein_29,Psychosis,Orexin Antagonist,Mechanism_32,Preclinical,Experimental
+Drug_202,Gene_414,Protein_287,Anxiety,SSRI,Mechanism_86,Approved,Approved
+Drug_203,Gene_453,Protein_70,Depression,SNRI,Mechanism_9,Approved,Approved
+Drug_204,Gene_367,Protein_106,Psychosis,SSRI,Mechanism_130,Phase 3,Approved
+Drug_205,Gene_244,Protein_246,Psychosis,NaSSA,Mechanism_136,Preclinical,Investigational
+Drug_206,Gene_54,Protein_55,Psychosis,NaSSA,Mechanism_189,Approved,Investigational
+Drug_207,Gene_3,Protein_9,Psychosis,SNRI,Mechanism_165,Approved,Experimental
+Drug_208,Gene_379,Protein_255,Anxiety,Atypical Antipsychotic,Mechanism_34,Preclinical,Experimental
+Drug_209,Gene_385,Protein_201,Psychosis,Psychedelic,Mechanism_149,Approved,Experimental
+Drug_210,Gene_234,Protein_142,Anxiety,Beta-Blocker,Mechanism_190,Preclinical,Approved
+Drug_211,Gene_493,Protein_180,Depression,Glycine Modulator,Mechanism_76,Phase 2,Experimental
+Drug_212,Gene_409,Protein_136,Anxiety,Orexin Antagonist,Mechanism_112,Phase 1,Approved
+Drug_213,Gene_354,Protein_248,Anxiety,SNRI,Mechanism_126,Phase 1,Experimental
+Drug_214,Gene_481,Protein_248,Psychosis,SNRI,Mechanism_48,Phase 3,Experimental
+Drug_215,Gene_36,Protein_66,Anxiety,NaSSA,Mechanism_109,Phase 2,Experimental
+Drug_216,Gene_265,Protein_243,Psychosis,NaSSA,Mechanism_191,Phase 1,Investigational
+Drug_217,Gene_369,Protein_253,Depression,SSRI,Mechanism_34,Approved,Investigational
+Drug_218,Gene_211,Protein_172,Psychosis,Psychedelic,Mechanism_153,Preclinical,Approved
+Drug_219,Gene_481,Protein_114,Depression,Atypical Antipsychotic,Mechanism_102,Approved,Experimental
+Drug_220,Gene_424,Protein_77,Psychosis,SSRI,Mechanism_26,Phase 1,Experimental
+Drug_221,Gene_496,Protein_29,Anxiety,Benzodiazepine,Mechanism_145,Phase 2,Experimental
+Drug_222,Gene_492,Protein_240,Anxiety,Orexin Antagonist,Mechanism_199,Preclinical,Investigational
+Drug_223,Gene_292,Protein_270,Psychosis,SNRI,Mechanism_179,Approved,Investigational
+Drug_224,Gene_425,Protein_236,Psychosis,SSRI,Mechanism_135,Approved,Approved
+Drug_225,Gene_66,Protein_123,Anxiety,Orexin Antagonist,Mechanism_80,Approved,Experimental
+Drug_226,Gene_391,Protein_191,Psychosis,SSRI,Mechanism_157,Phase 1,Experimental
+Drug_227,Gene_93,Protein_43,Psychosis,Beta-Blocker,Mechanism_127,Preclinical,Approved
+Drug_228,Gene_78,Protein_194,Anxiety,Benzodiazepine,Mechanism_89,Approved,Investigational
+Drug_229,Gene_129,Protein_93,Anxiety,Azapirone,Mechanism_113,Phase 2,Investigational
+Drug_230,Gene_95,Protein_299,Anxiety,Benzodiazepine,Mechanism_138,Phase 1,Experimental
+Drug_231,Gene_372,Protein_95,Psychosis,SSRI,Mechanism_162,Approved,Approved
+Drug_232,Gene_444,Protein_177,Depression,Orexin Antagonist,Mechanism_8,Phase 2,Experimental
+Drug_233,Gene_175,Protein_40,Depression,Glycine Modulator,Mechanism_191,Phase 1,Investigational
+Drug_234,Gene_295,Protein_174,Anxiety,NaSSA,Mechanism_87,Preclinical,Approved
+Drug_235,Gene_273,Protein_141,Psychosis,Glutamatergic Modulator,Mechanism_147,Approved,Approved
+Drug_236,Gene_126,Protein_16,Anxiety,NaSSA,Mechanism_166,Approved,Experimental
+Drug_237,Gene_317,Protein_239,Anxiety,Atypical Antipsychotic,Mechanism_151,Preclinical,Investigational
+Drug_238,Gene_9,Protein_132,Anxiety,Glutamatergic Modulator,Mechanism_111,Approved,Experimental
+Drug_239,Gene_100,Protein_39,Psychosis,NDRI,Mechanism_8,Approved,Approved
+Drug_240,Gene_352,Protein_280,Psychosis,SNRI,Mechanism_103,Phase 3,Experimental
+Drug_241,Gene_406,Protein_272,Psychosis,NaSSA,Mechanism_131,Approved,Investigational
+Drug_242,Gene_13,Protein_252,Anxiety,NDRI,Mechanism_143,Phase 1,Investigational
+Drug_243,Gene_344,Protein_283,Psychosis,Beta-Blocker,Mechanism_59,Phase 3,Investigational
+Drug_244,Gene_280,Protein_230,Depression,Beta-Blocker,Mechanism_96,Phase 1,Investigational
+Drug_245,Gene_481,Protein_137,Depression,Psychedelic,Mechanism_186,Phase 1,Investigational
+Drug_246,Gene_34,Protein_162,Anxiety,Atypical Antipsychotic,Mechanism_147,Phase 2,Approved
+Drug_247,Gene_95,Protein_140,Anxiety,Glutamatergic Modulator,Mechanism_180,Approved,Investigational
+Drug_248,Gene_242,Protein_33,Depression,Glutamatergic Modulator,Mechanism_138,Approved,Investigational
+Drug_249,Gene_168,Protein_297,Depression,Azapirone,Mechanism_12,Preclinical,Experimental
+Drug_250,Gene_243,Protein_93,Anxiety,Orexin Antagonist,Mechanism_46,Approved,Investigational
+Drug_251,Gene_480,Protein_279,Psychosis,Atypical Antipsychotic,Mechanism_149,Phase 2,Approved
+Drug_252,Gene_428,Protein_5,Anxiety,Atypical Antipsychotic,Mechanism_169,Phase 2,Experimental
+Drug_253,Gene_431,Protein_237,Anxiety,Atypical Antipsychotic,Mechanism_44,Phase 2,Investigational
+Drug_254,Gene_449,Protein_23,Anxiety,Beta-Blocker,Mechanism_107,Phase 1,Approved
+Drug_255,Gene_249,Protein_103,Psychosis,Azapirone,Mechanism_40,Phase 1,Investigational
+Drug_256,Gene_69,Protein_131,Psychosis,Atypical Antipsychotic,Mechanism_10,Phase 2,Investigational
+Drug_257,Gene_415,Protein_20,Psychosis,Azapirone,Mechanism_147,Preclinical,Experimental
+Drug_258,Gene_53,Protein_213,Psychosis,Glutamatergic Modulator,Mechanism_81,Phase 2,Approved
+Drug_259,Gene_266,Protein_262,Anxiety,Beta-Blocker,Mechanism_20,Phase 2,Approved
+Drug_260,Gene_82,Protein_228,Psychosis,SSRI,Mechanism_114,Phase 2,Experimental
+Drug_261,Gene_489,Protein_138,Anxiety,Glutamatergic Modulator,Mechanism_91,Approved,Investigational
+Drug_262,Gene_143,Protein_267,Anxiety,Azapirone,Mechanism_147,Phase 1,Approved
+Drug_263,Gene_212,Protein_17,Depression,Azapirone,Mechanism_65,Preclinical,Approved
+Drug_264,Gene_34,Protein_283,Psychosis,Orexin Antagonist,Mechanism_135,Preclinical,Investigational
+Drug_265,Gene_88,Protein_23,Anxiety,Benzodiazepine,Mechanism_112,Phase 2,Approved
+Drug_266,Gene_56,Protein_208,Depression,Orexin Antagonist,Mechanism_97,Preclinical,Approved
+Drug_267,Gene_147,Protein_77,Psychosis,NDRI,Mechanism_18,Approved,Approved
+Drug_268,Gene_387,Protein_246,Anxiety,Psychedelic,Mechanism_110,Phase 3,Approved
+Drug_269,Gene_68,Protein_180,Depression,Beta-Blocker,Mechanism_174,Phase 2,Experimental
+Drug_270,Gene_83,Protein_32,Psychosis,SSRI,Mechanism_184,Approved,Experimental
+Drug_271,Gene_115,Protein_227,Depression,SSRI,Mechanism_93,Preclinical,Investigational
+Drug_272,Gene_246,Protein_101,Psychosis,SSRI,Mechanism_3,Approved,Investigational
+Drug_273,Gene_2,Protein_141,Anxiety,SNRI,Mechanism_84,Phase 3,Experimental
+Drug_274,Gene_254,Protein_148,Depression,SSRI,Mechanism_87,Preclinical,Investigational
+Drug_275,Gene_276,Protein_266,Depression,NaSSA,Mechanism_132,Preclinical,Investigational
+Drug_276,Gene_337,Protein_92,Psychosis,SSRI,Mechanism_43,Phase 1,Approved
+Drug_277,Gene_224,Protein_60,Anxiety,SNRI,Mechanism_187,Phase 1,Experimental
+Drug_278,Gene_137,Protein_34,Anxiety,Beta-Blocker,Mechanism_55,Preclinical,Approved
+Drug_279,Gene_315,Protein_83,Psychosis,Glycine Modulator,Mechanism_115,Phase 1,Investigational
+Drug_280,Gene_64,Protein_88,Anxiety,Glycine Modulator,Mechanism_135,Phase 1,Investigational
+Drug_281,Gene_474,Protein_101,Anxiety,Glycine Modulator,Mechanism_148,Preclinical,Approved
+Drug_282,Gene_346,Protein_262,Anxiety,Psychedelic,Mechanism_85,Approved,Experimental
+Drug_283,Gene_257,Protein_219,Anxiety,SSRI,Mechanism_164,Phase 1,Investigational
+Drug_284,Gene_78,Protein_123,Anxiety,Atypical Antipsychotic,Mechanism_50,Approved,Approved
+Drug_285,Gene_140,Protein_209,Depression,Glutamatergic Modulator,Mechanism_155,Phase 2,Experimental
+Drug_286,Gene_210,Protein_248,Psychosis,SSRI,Mechanism_60,Phase 3,Approved
+Drug_287,Gene_294,Protein_50,Anxiety,Atypical Antipsychotic,Mechanism_29,Preclinical,Approved
+Drug_288,Gene_70,Protein_245,Psychosis,Psychedelic,Mechanism_136,Approved,Investigational
+Drug_289,Gene_81,Protein_258,Psychosis,Glycine Modulator,Mechanism_19,Phase 1,Approved
+Drug_290,Gene_348,Protein_42,Psychosis,Benzodiazepine,Mechanism_11,Approved,Experimental
+Drug_291,Gene_319,Protein_288,Psychosis,Glutamatergic Modulator,Mechanism_178,Phase 1,Investigational
+Drug_292,Gene_183,Protein_245,Psychosis,Glutamatergic Modulator,Mechanism_102,Phase 3,Investigational
+Drug_293,Gene_460,Protein_209,Depression,Beta-Blocker,Mechanism_87,Preclinical,Investigational
+Drug_294,Gene_200,Protein_228,Anxiety,Atypical Antipsychotic,Mechanism_106,Phase 3,Experimental
+Drug_295,Gene_26,Protein_283,Anxiety,NaSSA,Mechanism_132,Preclinical,Approved
+Drug_296,Gene_95,Protein_104,Anxiety,SNRI,Mechanism_179,Phase 2,Experimental
+Drug_297,Gene_466,Protein_40,Psychosis,Azapirone,Mechanism_151,Phase 2,Experimental
+Drug_298,Gene_117,Protein_232,Anxiety,NDRI,Mechanism_183,Phase 2,Investigational
+Drug_299,Gene_291,Protein_256,Anxiety,Orexin Antagonist,Mechanism_192,Preclinical,Experimental
+Drug_300,Gene_413,Protein_176,Psychosis,Orexin Antagonist,Mechanism_13,Preclinical,Investigational
+Drug_301,Gene_247,Protein_65,Psychosis,SNRI,Mechanism_151,Phase 1,Experimental
+Drug_302,Gene_205,Protein_298,Depression,SSRI,Mechanism_85,Phase 2,Investigational
+Drug_303,Gene_249,Protein_142,Depression,Orexin Antagonist,Mechanism_170,Preclinical,Approved
+Drug_304,Gene_324,Protein_170,Anxiety,Azapirone,Mechanism_197,Phase 1,Experimental
+Drug_305,Gene_297,Protein_102,Anxiety,Azapirone,Mechanism_30,Phase 2,Approved
+Drug_306,Gene_422,Protein_66,Depression,Glycine Modulator,Mechanism_58,Phase 2,Approved
+Drug_307,Gene_421,Protein_160,Anxiety,Azapirone,Mechanism_35,Preclinical,Experimental
+Drug_308,Gene_18,Protein_95,Psychosis,Azapirone,Mechanism_101,Phase 1,Experimental
+Drug_309,Gene_470,Protein_157,Anxiety,Beta-Blocker,Mechanism_129,Preclinical,Approved
+Drug_310,Gene_306,Protein_251,Psychosis,Atypical Antipsychotic,Mechanism_164,Phase 3,Experimental
+Drug_311,Gene_114,Protein_243,Anxiety,Glutamatergic Modulator,Mechanism_157,Approved,Approved
+Drug_312,Gene_307,Protein_186,Depression,Glutamatergic Modulator,Mechanism_102,Phase 2,Approved
+Drug_313,Gene_406,Protein_138,Anxiety,Glycine Modulator,Mechanism_100,Approved,Experimental
+Drug_314,Gene_203,Protein_162,Depression,Beta-Blocker,Mechanism_18,Phase 2,Investigational
+Drug_315,Gene_484,Protein_70,Anxiety,Psychedelic,Mechanism_184,Phase 3,Experimental
+Drug_316,Gene_247,Protein_236,Depression,Glycine Modulator,Mechanism_129,Phase 2,Experimental
+Drug_317,Gene_390,Protein_39,Depression,Atypical Antipsychotic,Mechanism_71,Phase 1,Experimental
+Drug_318,Gene_216,Protein_187,Psychosis,NDRI,Mechanism_69,Phase 2,Investigational
+Drug_319,Gene_308,Protein_168,Depression,Orexin Antagonist,Mechanism_61,Phase 2,Investigational
+Drug_320,Gene_111,Protein_12,Psychosis,Glycine Modulator,Mechanism_167,Preclinical,Investigational
+Drug_321,Gene_483,Protein_297,Depression,SNRI,Mechanism_68,Preclinical,Approved
+Drug_322,Gene_169,Protein_178,Psychosis,Glutamatergic Modulator,Mechanism_32,Phase 1,Approved
+Drug_323,Gene_247,Protein_84,Anxiety,Atypical Antipsychotic,Mechanism_16,Preclinical,Investigational
+Drug_324,Gene_223,Protein_43,Psychosis,Glycine Modulator,Mechanism_139,Phase 3,Approved
+Drug_325,Gene_35,Protein_214,Anxiety,Atypical Antipsychotic,Mechanism_139,Phase 1,Investigational
+Drug_326,Gene_450,Protein_153,Anxiety,Psychedelic,Mechanism_19,Phase 3,Investigational
+Drug_327,Gene_386,Protein_137,Anxiety,Benzodiazepine,Mechanism_50,Phase 3,Experimental
+Drug_328,Gene_500,Protein_49,Psychosis,NaSSA,Mechanism_119,Phase 2,Investigational
+Drug_329,Gene_158,Protein_271,Depression,NaSSA,Mechanism_145,Phase 3,Investigational
+Drug_330,Gene_493,Protein_74,Anxiety,Atypical Antipsychotic,Mechanism_189,Phase 3,Investigational
+Drug_331,Gene_338,Protein_259,Psychosis,Benzodiazepine,Mechanism_2,Preclinical,Approved
+Drug_332,Gene_475,Protein_73,Depression,NDRI,Mechanism_153,Phase 3,Investigational
+Drug_333,Gene_417,Protein_111,Depression,Psychedelic,Mechanism_180,Phase 2,Experimental
+Drug_334,Gene_382,Protein_25,Anxiety,Psychedelic,Mechanism_148,Preclinical,Approved
+Drug_335,Gene_451,Protein_144,Depression,Orexin Antagonist,Mechanism_173,Approved,Approved
+Drug_336,Gene_437,Protein_298,Depression,NaSSA,Mechanism_116,Phase 1,Experimental
+Drug_337,Gene_66,Protein_191,Depression,SSRI,Mechanism_127,Preclinical,Approved
+Drug_338,Gene_437,Protein_43,Anxiety,NDRI,Mechanism_168,Phase 3,Investigational
+Drug_339,Gene_225,Protein_111,Depression,Orexin Antagonist,Mechanism_128,Approved,Experimental
+Drug_340,Gene_144,Protein_158,Psychosis,Benzodiazepine,Mechanism_28,Approved,Experimental
+Drug_341,Gene_236,Protein_44,Depression,Beta-Blocker,Mechanism_68,Preclinical,Experimental
+Drug_342,Gene_1,Protein_156,Anxiety,Atypical Antipsychotic,Mechanism_104,Phase 2,Experimental
+Drug_343,Gene_257,Protein_190,Anxiety,Beta-Blocker,Mechanism_76,Approved,Approved
+Drug_344,Gene_109,Protein_190,Anxiety,Atypical Antipsychotic,Mechanism_71,Preclinical,Approved
+Drug_345,Gene_18,Protein_78,Anxiety,NDRI,Mechanism_184,Phase 3,Experimental
+Drug_346,Gene_129,Protein_121,Depression,NaSSA,Mechanism_38,Preclinical,Investigational
+Drug_347,Gene_200,Protein_203,Depression,Orexin Antagonist,Mechanism_18,Preclinical,Investigational
+Drug_348,Gene_225,Protein_245,Psychosis,Glutamatergic Modulator,Mechanism_68,Phase 2,Experimental
+Drug_349,Gene_168,Protein_18,Depression,Atypical Antipsychotic,Mechanism_54,Phase 1,Approved
+Drug_350,Gene_208,Protein_93,Psychosis,NaSSA,Mechanism_168,Phase 2,Investigational
+Drug_351,Gene_22,Protein_247,Psychosis,Azapirone,Mechanism_161,Preclinical,Investigational
+Drug_352,Gene_435,Protein_54,Depression,Benzodiazepine,Mechanism_114,Phase 2,Experimental
+Drug_353,Gene_263,Protein_259,Depression,Benzodiazepine,Mechanism_168,Preclinical,Investigational
+Drug_354,Gene_314,Protein_217,Depression,Benzodiazepine,Mechanism_20,Preclinical,Experimental
+Drug_355,Gene_342,Protein_187,Depression,Azapirone,Mechanism_183,Phase 1,Experimental
+Drug_356,Gene_475,Protein_187,Anxiety,Atypical Antipsychotic,Mechanism_160,Approved,Experimental
+Drug_357,Gene_403,Protein_287,Psychosis,Glycine Modulator,Mechanism_129,Preclinical,Experimental
+Drug_358,Gene_294,Protein_240,Psychosis,NaSSA,Mechanism_74,Phase 1,Experimental
+Drug_359,Gene_1,Protein_202,Anxiety,Atypical Antipsychotic,Mechanism_115,Preclinical,Experimental
+Drug_360,Gene_9,Protein_239,Anxiety,Beta-Blocker,Mechanism_137,Phase 3,Investigational
+Drug_361,Gene_320,Protein_30,Psychosis,Atypical Antipsychotic,Mechanism_28,Phase 2,Investigational
+Drug_362,Gene_240,Protein_230,Psychosis,Orexin Antagonist,Mechanism_45,Phase 3,Approved
+Drug_363,Gene_34,Protein_276,Anxiety,NDRI,Mechanism_52,Phase 3,Approved
+Drug_364,Gene_300,Protein_111,Depression,SNRI,Mechanism_22,Approved,Approved
+Drug_365,Gene_165,Protein_150,Anxiety,Glycine Modulator,Mechanism_86,Approved,Approved
+Drug_366,Gene_183,Protein_257,Psychosis,Beta-Blocker,Mechanism_5,Preclinical,Experimental
+Drug_367,Gene_480,Protein_102,Anxiety,SNRI,Mechanism_137,Phase 1,Experimental
+Drug_368,Gene_210,Protein_87,Anxiety,Psychedelic,Mechanism_145,Approved,Approved
+Drug_369,Gene_182,Protein_11,Depression,Beta-Blocker,Mechanism_28,Preclinical,Experimental
+Drug_370,Gene_123,Protein_69,Anxiety,Beta-Blocker,Mechanism_5,Phase 1,Investigational
+Drug_371,Gene_115,Protein_285,Psychosis,Glycine Modulator,Mechanism_104,Approved,Approved
+Drug_372,Gene_215,Protein_91,Psychosis,Glutamatergic Modulator,Mechanism_117,Phase 3,Investigational
+Drug_373,Gene_55,Protein_78,Psychosis,NaSSA,Mechanism_194,Phase 2,Investigational
+Drug_374,Gene_357,Protein_48,Psychosis,Atypical Antipsychotic,Mechanism_75,Phase 2,Approved
+Drug_375,Gene_229,Protein_128,Depression,Benzodiazepine,Mechanism_25,Phase 2,Experimental
+Drug_376,Gene_52,Protein_59,Depression,Orexin Antagonist,Mechanism_151,Phase 3,Approved
+Drug_377,Gene_354,Protein_47,Psychosis,SNRI,Mechanism_19,Preclinical,Investigational
+Drug_378,Gene_402,Protein_36,Depression,Glutamatergic Modulator,Mechanism_77,Phase 1,Investigational
+Drug_379,Gene_159,Protein_214,Anxiety,Atypical Antipsychotic,Mechanism_160,Phase 1,Experimental
+Drug_380,Gene_337,Protein_214,Depression,SNRI,Mechanism_23,Phase 2,Approved
+Drug_381,Gene_21,Protein_234,Depression,Glycine Modulator,Mechanism_126,Phase 2,Approved
+Drug_382,Gene_343,Protein_197,Depression,NaSSA,Mechanism_185,Phase 3,Experimental
+Drug_383,Gene_326,Protein_17,Depression,SNRI,Mechanism_64,Preclinical,Approved
+Drug_384,Gene_303,Protein_141,Depression,SNRI,Mechanism_98,Phase 1,Experimental
+Drug_385,Gene_235,Protein_214,Psychosis,Orexin Antagonist,Mechanism_35,Preclinical,Experimental
+Drug_386,Gene_306,Protein_150,Psychosis,NDRI,Mechanism_116,Phase 3,Investigational
+Drug_387,Gene_104,Protein_54,Anxiety,SNRI,Mechanism_52,Preclinical,Investigational
+Drug_388,Gene_315,Protein_12,Psychosis,Beta-Blocker,Mechanism_82,Preclinical,Approved
+Drug_389,Gene_411,Protein_40,Anxiety,Glutamatergic Modulator,Mechanism_46,Phase 3,Investigational
+Drug_390,Gene_158,Protein_107,Anxiety,Psychedelic,Mechanism_7,Phase 2,Approved
+Drug_391,Gene_98,Protein_271,Depression,Azapirone,Mechanism_165,Phase 1,Investigational
+Drug_392,Gene_29,Protein_221,Depression,Glutamatergic Modulator,Mechanism_64,Phase 3,Experimental
+Drug_393,Gene_350,Protein_37,Psychosis,Atypical Antipsychotic,Mechanism_35,Preclinical,Investigational
+Drug_394,Gene_380,Protein_123,Depression,NaSSA,Mechanism_174,Approved,Experimental
+Drug_395,Gene_152,Protein_48,Psychosis,Orexin Antagonist,Mechanism_156,Preclinical,Investigational
+Drug_396,Gene_197,Protein_119,Psychosis,SSRI,Mechanism_78,Preclinical,Approved
+Drug_397,Gene_343,Protein_29,Depression,NaSSA,Mechanism_115,Preclinical,Investigational
+Drug_398,Gene_417,Protein_72,Anxiety,Orexin Antagonist,Mechanism_55,Phase 1,Approved
+Drug_399,Gene_17,Protein_148,Anxiety,Glutamatergic Modulator,Mechanism_148,Phase 3,Approved
+Drug_400,Gene_473,Protein_258,Anxiety,Beta-Blocker,Mechanism_43,Approved,Investigational
+Drug_401,Gene_44,Protein_56,Psychosis,NDRI,Mechanism_192,Preclinical,Experimental
+Drug_402,Gene_496,Protein_146,Psychosis,Azapirone,Mechanism_198,Phase 1,Experimental
+Drug_403,Gene_478,Protein_124,Depression,Orexin Antagonist,Mechanism_110,Approved,Approved
+Drug_404,Gene_426,Protein_97,Psychosis,Orexin Antagonist,Mechanism_145,Phase 1,Investigational
+Drug_405,Gene_462,Protein_250,Depression,NDRI,Mechanism_36,Preclinical,Experimental
+Drug_406,Gene_397,Protein_157,Depression,Atypical Antipsychotic,Mechanism_13,Preclinical,Investigational
+Drug_407,Gene_83,Protein_274,Psychosis,Glutamatergic Modulator,Mechanism_126,Preclinical,Experimental
+Drug_408,Gene_182,Protein_37,Anxiety,Glutamatergic Modulator,Mechanism_35,Phase 1,Investigational
+Drug_409,Gene_265,Protein_15,Psychosis,Psychedelic,Mechanism_57,Phase 2,Experimental
+Drug_410,Gene_304,Protein_61,Psychosis,Benzodiazepine,Mechanism_42,Phase 2,Experimental
+Drug_411,Gene_495,Protein_153,Psychosis,Psychedelic,Mechanism_138,Phase 3,Investigational
+Drug_412,Gene_143,Protein_75,Anxiety,Orexin Antagonist,Mechanism_86,Approved,Approved
+Drug_413,Gene_9,Protein_77,Anxiety,SSRI,Mechanism_47,Phase 3,Investigational
+Drug_414,Gene_223,Protein_194,Depression,Benzodiazepine,Mechanism_97,Phase 2,Approved
+Drug_415,Gene_195,Protein_267,Depression,Glutamatergic Modulator,Mechanism_72,Preclinical,Experimental
+Drug_416,Gene_168,Protein_122,Psychosis,Atypical Antipsychotic,Mechanism_175,Phase 1,Experimental
+Drug_417,Gene_414,Protein_297,Depression,SSRI,Mechanism_74,Approved,Investigational
+Drug_418,Gene_157,Protein_14,Depression,Glycine Modulator,Mechanism_159,Preclinical,Investigational
+Drug_419,Gene_253,Protein_263,Anxiety,SNRI,Mechanism_65,Phase 3,Experimental
+Drug_420,Gene_389,Protein_91,Depression,Glutamatergic Modulator,Mechanism_38,Approved,Investigational
+Drug_421,Gene_94,Protein_220,Psychosis,Orexin Antagonist,Mechanism_19,Approved,Investigational
+Drug_422,Gene_256,Protein_275,Anxiety,SNRI,Mechanism_38,Phase 2,Experimental
+Drug_423,Gene_86,Protein_280,Depression,NaSSA,Mechanism_150,Preclinical,Experimental
+Drug_424,Gene_395,Protein_300,Depression,Psychedelic,Mechanism_188,Phase 1,Approved
+Drug_425,Gene_341,Protein_157,Psychosis,SNRI,Mechanism_10,Phase 3,Approved
+Drug_426,Gene_30,Protein_200,Psychosis,SNRI,Mechanism_40,Phase 2,Investigational
+Drug_427,Gene_421,Protein_243,Anxiety,Atypical Antipsychotic,Mechanism_83,Phase 1,Experimental
+Drug_428,Gene_372,Protein_153,Psychosis,Orexin Antagonist,Mechanism_197,Phase 3,Experimental
+Drug_429,Gene_276,Protein_131,Depression,Orexin Antagonist,Mechanism_113,Approved,Investigational
+Drug_430,Gene_310,Protein_38,Depression,Atypical Antipsychotic,Mechanism_97,Phase 2,Investigational
+Drug_431,Gene_314,Protein_280,Depression,Benzodiazepine,Mechanism_69,Preclinical,Experimental
+Drug_432,Gene_398,Protein_201,Depression,NDRI,Mechanism_182,Approved,Investigational
+Drug_433,Gene_190,Protein_86,Psychosis,Glycine Modulator,Mechanism_122,Phase 2,Investigational
+Drug_434,Gene_403,Protein_144,Depression,Beta-Blocker,Mechanism_28,Phase 2,Experimental
+Drug_435,Gene_35,Protein_71,Psychosis,SSRI,Mechanism_147,Approved,Experimental
+Drug_436,Gene_34,Protein_215,Depression,Glutamatergic Modulator,Mechanism_167,Preclinical,Experimental
+Drug_437,Gene_305,Protein_141,Depression,Benzodiazepine,Mechanism_102,Phase 1,Investigational
+Drug_438,Gene_173,Protein_132,Anxiety,Benzodiazepine,Mechanism_25,Phase 3,Approved
+Drug_439,Gene_422,Protein_299,Depression,Psychedelic,Mechanism_55,Phase 2,Experimental
+Drug_440,Gene_314,Protein_151,Psychosis,Glycine Modulator,Mechanism_101,Approved,Experimental
+Drug_441,Gene_453,Protein_59,Anxiety,Psychedelic,Mechanism_25,Phase 2,Investigational
+Drug_442,Gene_151,Protein_218,Psychosis,Glutamatergic Modulator,Mechanism_18,Approved,Approved
+Drug_443,Gene_439,Protein_86,Psychosis,Psychedelic,Mechanism_118,Phase 2,Approved
+Drug_444,Gene_68,Protein_162,Depression,Benzodiazepine,Mechanism_139,Phase 3,Approved
+Drug_445,Gene_402,Protein_169,Psychosis,SSRI,Mechanism_85,Approved,Investigational
+Drug_446,Gene_402,Protein_135,Anxiety,Azapirone,Mechanism_91,Phase 3,Investigational
+Drug_447,Gene_154,Protein_246,Anxiety,Glutamatergic Modulator,Mechanism_39,Phase 1,Approved
+Drug_448,Gene_432,Protein_59,Anxiety,Beta-Blocker,Mechanism_52,Phase 3,Investigational
+Drug_449,Gene_481,Protein_55,Psychosis,Orexin Antagonist,Mechanism_166,Preclinical,Approved
+Drug_450,Gene_353,Protein_218,Anxiety,Orexin Antagonist,Mechanism_59,Phase 2,Experimental
+Drug_451,Gene_298,Protein_233,Psychosis,Azapirone,Mechanism_114,Approved,Experimental
+Drug_452,Gene_289,Protein_1,Anxiety,NaSSA,Mechanism_151,Approved,Experimental
+Drug_453,Gene_406,Protein_39,Anxiety,Benzodiazepine,Mechanism_136,Approved,Experimental
+Drug_454,Gene_490,Protein_174,Depression,NDRI,Mechanism_115,Approved,Approved
+Drug_455,Gene_389,Protein_161,Anxiety,Atypical Antipsychotic,Mechanism_159,Approved,Investigational
+Drug_456,Gene_13,Protein_116,Anxiety,SSRI,Mechanism_55,Phase 2,Approved
+Drug_457,Gene_108,Protein_224,Psychosis,NDRI,Mechanism_36,Preclinical,Experimental
+Drug_458,Gene_288,Protein_285,Psychosis,Beta-Blocker,Mechanism_57,Preclinical,Approved
+Drug_459,Gene_279,Protein_199,Depression,Beta-Blocker,Mechanism_158,Phase 3,Approved
+Drug_460,Gene_111,Protein_220,Depression,Atypical Antipsychotic,Mechanism_145,Phase 2,Experimental
+Drug_461,Gene_124,Protein_247,Anxiety,Glycine Modulator,Mechanism_148,Preclinical,Investigational
+Drug_462,Gene_35,Protein_242,Anxiety,SSRI,Mechanism_190,Phase 3,Experimental
+Drug_463,Gene_407,Protein_44,Anxiety,Benzodiazepine,Mechanism_127,Phase 3,Experimental
+Drug_464,Gene_313,Protein_104,Depression,Atypical Antipsychotic,Mechanism_57,Preclinical,Approved
+Drug_465,Gene_360,Protein_125,Psychosis,Atypical Antipsychotic,Mechanism_24,Approved,Experimental
+Drug_466,Gene_231,Protein_65,Psychosis,Orexin Antagonist,Mechanism_105,Phase 1,Experimental
+Drug_467,Gene_354,Protein_172,Anxiety,SSRI,Mechanism_121,Phase 1,Investigational
+Drug_468,Gene_52,Protein_159,Depression,NDRI,Mechanism_109,Preclinical,Approved
+Drug_469,Gene_151,Protein_37,Anxiety,Benzodiazepine,Mechanism_153,Phase 1,Approved
+Drug_470,Gene_100,Protein_275,Depression,Azapirone,Mechanism_97,Approved,Experimental
+Drug_471,Gene_146,Protein_100,Depression,Glutamatergic Modulator,Mechanism_36,Phase 2,Experimental
+Drug_472,Gene_434,Protein_296,Psychosis,Orexin Antagonist,Mechanism_82,Phase 3,Approved
+Drug_473,Gene_412,Protein_226,Depression,Atypical Antipsychotic,Mechanism_112,Phase 1,Approved
+Drug_474,Gene_237,Protein_205,Psychosis,Beta-Blocker,Mechanism_76,Phase 1,Experimental
+Drug_475,Gene_50,Protein_298,Anxiety,SNRI,Mechanism_152,Preclinical,Experimental
+Drug_476,Gene_382,Protein_3,Anxiety,Orexin Antagonist,Mechanism_134,Approved,Approved
+Drug_477,Gene_78,Protein_51,Depression,Glycine Modulator,Mechanism_182,Phase 3,Experimental
+Drug_478,Gene_109,Protein_200,Anxiety,Psychedelic,Mechanism_153,Phase 3,Approved
+Drug_479,Gene_338,Protein_97,Depression,Atypical Antipsychotic,Mechanism_146,Phase 2,Experimental
+Drug_480,Gene_453,Protein_194,Psychosis,SSRI,Mechanism_116,Approved,Experimental
+Drug_481,Gene_235,Protein_75,Psychosis,Beta-Blocker,Mechanism_29,Phase 2,Investigational
+Drug_482,Gene_197,Protein_181,Anxiety,Benzodiazepine,Mechanism_20,Preclinical,Approved
+Drug_483,Gene_377,Protein_149,Depression,Glutamatergic Modulator,Mechanism_48,Phase 3,Experimental
+Drug_484,Gene_369,Protein_134,Anxiety,NDRI,Mechanism_37,Phase 3,Approved
+Drug_485,Gene_201,Protein_195,Anxiety,SNRI,Mechanism_39,Phase 1,Approved
+Drug_486,Gene_156,Protein_216,Anxiety,Beta-Blocker,Mechanism_98,Phase 2,Approved
+Drug_487,Gene_341,Protein_211,Depression,Psychedelic,Mechanism_31,Phase 3,Experimental
+Drug_488,Gene_445,Protein_168,Psychosis,Atypical Antipsychotic,Mechanism_154,Approved,Investigational
+Drug_489,Gene_29,Protein_29,Anxiety,SSRI,Mechanism_97,Phase 3,Experimental
+Drug_490,Gene_449,Protein_119,Psychosis,Beta-Blocker,Mechanism_193,Phase 3,Investigational
+Drug_491,Gene_61,Protein_69,Anxiety,SNRI,Mechanism_6,Phase 2,Experimental
+Drug_492,Gene_62,Protein_213,Anxiety,NDRI,Mechanism_107,Approved,Investigational
+Drug_493,Gene_488,Protein_41,Psychosis,SSRI,Mechanism_45,Phase 1,Experimental
+Drug_494,Gene_302,Protein_77,Psychosis,Azapirone,Mechanism_61,Phase 1,Experimental
+Drug_495,Gene_429,Protein_146,Anxiety,NaSSA,Mechanism_117,Preclinical,Approved
+Drug_496,Gene_52,Protein_94,Anxiety,NDRI,Mechanism_149,Preclinical,Investigational
+Drug_497,Gene_406,Protein_61,Depression,Benzodiazepine,Mechanism_166,Phase 1,Investigational
+Drug_498,Gene_281,Protein_282,Psychosis,Glutamatergic Modulator,Mechanism_197,Preclinical,Experimental
+Drug_499,Gene_131,Protein_169,Anxiety,NaSSA,Mechanism_100,Preclinical,Approved
+Drug_500,Gene_433,Protein_213,Depression,SNRI,Mechanism_1,Phase 3,Experimental
+Drug_501,Gene_70,Protein_40,Psychosis,SSRI,Mechanism_130,Phase 1,Investigational
+Drug_502,Gene_176,Protein_171,Anxiety,Psychedelic,Mechanism_57,Phase 3,Investigational
+Drug_503,Gene_139,Protein_184,Depression,Psychedelic,Mechanism_169,Phase 2,Approved
+Drug_504,Gene_287,Protein_13,Anxiety,Azapirone,Mechanism_14,Approved,Investigational
+Drug_505,Gene_491,Protein_189,Anxiety,NaSSA,Mechanism_102,Preclinical,Experimental
+Drug_506,Gene_467,Protein_58,Anxiety,Orexin Antagonist,Mechanism_89,Phase 1,Investigational
+Drug_507,Gene_130,Protein_176,Anxiety,Glutamatergic Modulator,Mechanism_182,Phase 3,Investigational
+Drug_508,Gene_397,Protein_101,Depression,NaSSA,Mechanism_138,Preclinical,Investigational
+Drug_509,Gene_247,Protein_20,Anxiety,Beta-Blocker,Mechanism_196,Phase 2,Investigational
+Drug_510,Gene_255,Protein_201,Psychosis,Glutamatergic Modulator,Mechanism_63,Phase 2,Investigational
+Drug_511,Gene_99,Protein_265,Psychosis,Atypical Antipsychotic,Mechanism_53,Phase 1,Experimental
+Drug_512,Gene_142,Protein_81,Anxiety,Psychedelic,Mechanism_89,Phase 3,Approved
+Drug_513,Gene_395,Protein_247,Psychosis,Orexin Antagonist,Mechanism_100,Approved,Approved
+Drug_514,Gene_367,Protein_213,Anxiety,Psychedelic,Mechanism_2,Preclinical,Experimental
+Drug_515,Gene_332,Protein_60,Psychosis,NDRI,Mechanism_54,Phase 3,Experimental
+Drug_516,Gene_341,Protein_190,Psychosis,NDRI,Mechanism_171,Phase 1,Approved
+Drug_517,Gene_80,Protein_175,Anxiety,Beta-Blocker,Mechanism_185,Phase 3,Investigational
+Drug_518,Gene_259,Protein_42,Anxiety,Atypical Antipsychotic,Mechanism_87,Phase 3,Approved
+Drug_519,Gene_341,Protein_251,Anxiety,SNRI,Mechanism_7,Approved,Approved
+Drug_520,Gene_479,Protein_30,Psychosis,Glutamatergic Modulator,Mechanism_30,Approved,Experimental
+Drug_521,Gene_269,Protein_34,Anxiety,Beta-Blocker,Mechanism_198,Approved,Approved
+Drug_522,Gene_470,Protein_291,Depression,Psychedelic,Mechanism_149,Phase 2,Approved
+Drug_523,Gene_223,Protein_77,Depression,NDRI,Mechanism_46,Phase 1,Approved
+Drug_524,Gene_444,Protein_232,Psychosis,Benzodiazepine,Mechanism_200,Approved,Approved
+Drug_525,Gene_224,Protein_117,Psychosis,SSRI,Mechanism_181,Phase 2,Investigational
+Drug_526,Gene_500,Protein_83,Psychosis,Psychedelic,Mechanism_77,Phase 2,Experimental
+Drug_527,Gene_374,Protein_120,Anxiety,SNRI,Mechanism_193,Phase 1,Experimental
+Drug_528,Gene_196,Protein_32,Anxiety,SNRI,Mechanism_142,Phase 1,Experimental
+Drug_529,Gene_361,Protein_167,Psychosis,Orexin Antagonist,Mechanism_108,Preclinical,Investigational
+Drug_530,Gene_467,Protein_4,Anxiety,Psychedelic,Mechanism_85,Approved,Investigational
+Drug_531,Gene_3,Protein_66,Depression,Azapirone,Mechanism_73,Preclinical,Approved
+Drug_532,Gene_342,Protein_120,Depression,Glutamatergic Modulator,Mechanism_120,Approved,Approved
+Drug_533,Gene_27,Protein_180,Psychosis,Beta-Blocker,Mechanism_64,Phase 3,Approved
+Drug_534,Gene_4,Protein_192,Depression,Glycine Modulator,Mechanism_70,Phase 3,Investigational
+Drug_535,Gene_447,Protein_233,Psychosis,Glycine Modulator,Mechanism_66,Phase 2,Experimental
+Drug_536,Gene_132,Protein_45,Anxiety,Atypical Antipsychotic,Mechanism_94,Phase 3,Experimental
+Drug_537,Gene_103,Protein_51,Depression,Orexin Antagonist,Mechanism_3,Phase 1,Approved
+Drug_538,Gene_392,Protein_99,Depression,NDRI,Mechanism_173,Phase 1,Approved
+Drug_539,Gene_310,Protein_160,Psychosis,Orexin Antagonist,Mechanism_83,Phase 1,Investigational
+Drug_540,Gene_476,Protein_44,Psychosis,Azapirone,Mechanism_95,Phase 2,Investigational
+Drug_541,Gene_71,Protein_53,Depression,Glutamatergic Modulator,Mechanism_130,Phase 3,Approved
+Drug_542,Gene_115,Protein_285,Anxiety,Azapirone,Mechanism_75,Approved,Experimental
+Drug_543,Gene_199,Protein_223,Psychosis,Orexin Antagonist,Mechanism_159,Phase 3,Experimental
+Drug_544,Gene_481,Protein_4,Psychosis,SSRI,Mechanism_140,Approved,Experimental
+Drug_545,Gene_305,Protein_159,Depression,Orexin Antagonist,Mechanism_112,Phase 3,Experimental
+Drug_546,Gene_271,Protein_112,Anxiety,NDRI,Mechanism_128,Phase 2,Investigational
+Drug_547,Gene_252,Protein_74,Psychosis,Orexin Antagonist,Mechanism_168,Preclinical,Investigational
+Drug_548,Gene_455,Protein_136,Depression,SNRI,Mechanism_138,Preclinical,Approved
+Drug_549,Gene_295,Protein_181,Anxiety,NDRI,Mechanism_193,Phase 1,Approved
+Drug_550,Gene_90,Protein_101,Anxiety,Benzodiazepine,Mechanism_23,Phase 2,Investigational
+Drug_551,Gene_324,Protein_183,Anxiety,Psychedelic,Mechanism_128,Phase 2,Experimental
+Drug_552,Gene_356,Protein_11,Depression,Psychedelic,Mechanism_41,Phase 3,Approved
+Drug_553,Gene_79,Protein_148,Psychosis,Psychedelic,Mechanism_90,Phase 2,Approved
+Drug_554,Gene_500,Protein_79,Psychosis,Glycine Modulator,Mechanism_118,Phase 1,Investigational
+Drug_555,Gene_413,Protein_296,Depression,Azapirone,Mechanism_2,Phase 1,Investigational
+Drug_556,Gene_400,Protein_101,Psychosis,Benzodiazepine,Mechanism_194,Preclinical,Experimental
+Drug_557,Gene_123,Protein_24,Psychosis,SSRI,Mechanism_90,Preclinical,Approved
+Drug_558,Gene_151,Protein_5,Anxiety,Glutamatergic Modulator,Mechanism_5,Phase 1,Investigational
+Drug_559,Gene_351,Protein_148,Anxiety,SSRI,Mechanism_39,Phase 3,Investigational
+Drug_560,Gene_454,Protein_142,Depression,NaSSA,Mechanism_98,Phase 1,Approved
+Drug_561,Gene_31,Protein_175,Psychosis,Beta-Blocker,Mechanism_127,Approved,Approved
+Drug_562,Gene_185,Protein_300,Psychosis,NDRI,Mechanism_18,Phase 3,Approved
+Drug_563,Gene_402,Protein_182,Depression,Glutamatergic Modulator,Mechanism_188,Phase 1,Experimental
+Drug_564,Gene_474,Protein_179,Depression,Psychedelic,Mechanism_56,Phase 1,Investigational
+Drug_565,Gene_156,Protein_108,Depression,Glutamatergic Modulator,Mechanism_113,Preclinical,Approved
+Drug_566,Gene_144,Protein_153,Psychosis,Glutamatergic Modulator,Mechanism_81,Phase 2,Experimental
+Drug_567,Gene_361,Protein_298,Anxiety,Azapirone,Mechanism_99,Phase 3,Approved
+Drug_568,Gene_161,Protein_179,Depression,SSRI,Mechanism_83,Phase 2,Experimental
+Drug_569,Gene_237,Protein_258,Psychosis,Beta-Blocker,Mechanism_43,Preclinical,Investigational
+Drug_570,Gene_239,Protein_250,Depression,NDRI,Mechanism_91,Phase 1,Approved
+Drug_571,Gene_176,Protein_52,Psychosis,Azapirone,Mechanism_32,Phase 3,Approved
+Drug_572,Gene_473,Protein_81,Anxiety,Psychedelic,Mechanism_123,Phase 3,Approved
+Drug_573,Gene_237,Protein_294,Depression,Benzodiazepine,Mechanism_46,Preclinical,Investigational
+Drug_574,Gene_222,Protein_15,Depression,NaSSA,Mechanism_87,Phase 2,Experimental
+Drug_575,Gene_185,Protein_142,Depression,Orexin Antagonist,Mechanism_107,Phase 1,Experimental
+Drug_576,Gene_57,Protein_159,Anxiety,Benzodiazepine,Mechanism_122,Phase 2,Experimental
+Drug_577,Gene_86,Protein_265,Anxiety,Azapirone,Mechanism_137,Phase 1,Experimental
+Drug_578,Gene_186,Protein_217,Anxiety,Psychedelic,Mechanism_34,Phase 2,Approved
+Drug_579,Gene_298,Protein_112,Psychosis,Azapirone,Mechanism_13,Preclinical,Investigational
+Drug_580,Gene_282,Protein_128,Depression,Orexin Antagonist,Mechanism_20,Phase 1,Experimental
+Drug_581,Gene_239,Protein_10,Anxiety,Glutamatergic Modulator,Mechanism_59,Approved,Experimental
+Drug_582,Gene_379,Protein_30,Anxiety,Atypical Antipsychotic,Mechanism_147,Approved,Investigational
+Drug_583,Gene_355,Protein_202,Anxiety,SSRI,Mechanism_120,Approved,Approved
+Drug_584,Gene_220,Protein_272,Anxiety,Benzodiazepine,Mechanism_108,Phase 2,Approved
+Drug_585,Gene_428,Protein_278,Anxiety,SNRI,Mechanism_101,Preclinical,Approved
+Drug_586,Gene_242,Protein_123,Anxiety,Atypical Antipsychotic,Mechanism_120,Approved,Investigational
+Drug_587,Gene_63,Protein_197,Psychosis,Benzodiazepine,Mechanism_53,Approved,Experimental
+Drug_588,Gene_339,Protein_222,Depression,SNRI,Mechanism_38,Phase 2,Approved
+Drug_589,Gene_370,Protein_275,Anxiety,Benzodiazepine,Mechanism_52,Phase 3,Experimental
+Drug_590,Gene_170,Protein_62,Anxiety,Psychedelic,Mechanism_136,Phase 3,Investigational
+Drug_591,Gene_82,Protein_202,Anxiety,SSRI,Mechanism_118,Approved,Experimental
+Drug_592,Gene_271,Protein_192,Anxiety,Azapirone,Mechanism_165,Phase 3,Investigational
+Drug_593,Gene_235,Protein_142,Psychosis,Atypical Antipsychotic,Mechanism_26,Phase 3,Investigational
+Drug_594,Gene_40,Protein_211,Psychosis,Benzodiazepine,Mechanism_158,Preclinical,Investigational
+Drug_595,Gene_284,Protein_46,Depression,Benzodiazepine,Mechanism_31,Phase 1,Approved
+Drug_596,Gene_105,Protein_101,Anxiety,Azapirone,Mechanism_17,Phase 3,Experimental
+Drug_597,Gene_81,Protein_62,Psychosis,NaSSA,Mechanism_15,Approved,Investigational
+Drug_598,Gene_401,Protein_232,Psychosis,Glutamatergic Modulator,Mechanism_108,Approved,Investigational
+Drug_599,Gene_341,Protein_112,Psychosis,Beta-Blocker,Mechanism_80,Phase 2,Approved
+Drug_600,Gene_216,Protein_59,Psychosis,Atypical Antipsychotic,Mechanism_176,Preclinical,Approved
+Drug_601,Gene_136,Protein_41,Depression,Glycine Modulator,Mechanism_158,Phase 1,Experimental
+Drug_602,Gene_189,Protein_17,Anxiety,Beta-Blocker,Mechanism_67,Phase 2,Investigational
+Drug_603,Gene_320,Protein_188,Anxiety,Psychedelic,Mechanism_85,Preclinical,Approved
+Drug_604,Gene_294,Protein_198,Anxiety,NDRI,Mechanism_80,Approved,Approved
+Drug_605,Gene_442,Protein_106,Anxiety,Glycine Modulator,Mechanism_86,Phase 3,Approved
+Drug_606,Gene_108,Protein_93,Psychosis,Psychedelic,Mechanism_3,Phase 1,Investigational
+Drug_607,Gene_432,Protein_278,Anxiety,Glycine Modulator,Mechanism_14,Phase 2,Experimental
+Drug_608,Gene_448,Protein_281,Anxiety,Atypical Antipsychotic,Mechanism_35,Approved,Investigational
+Drug_609,Gene_125,Protein_171,Depression,Atypical Antipsychotic,Mechanism_94,Phase 2,Approved
+Drug_610,Gene_52,Protein_118,Psychosis,NDRI,Mechanism_34,Approved,Investigational
+Drug_611,Gene_232,Protein_148,Psychosis,Glutamatergic Modulator,Mechanism_105,Phase 1,Experimental
+Drug_612,Gene_352,Protein_212,Anxiety,Benzodiazepine,Mechanism_105,Phase 2,Experimental
+Drug_613,Gene_182,Protein_15,Depression,Beta-Blocker,Mechanism_159,Approved,Investigational
+Drug_614,Gene_113,Protein_287,Depression,Benzodiazepine,Mechanism_67,Preclinical,Investigational
+Drug_615,Gene_379,Protein_95,Anxiety,Psychedelic,Mechanism_189,Phase 2,Approved
+Drug_616,Gene_85,Protein_28,Depression,NaSSA,Mechanism_37,Phase 1,Approved
+Drug_617,Gene_427,Protein_144,Psychosis,Glycine Modulator,Mechanism_161,Phase 1,Investigational
+Drug_618,Gene_113,Protein_51,Depression,Benzodiazepine,Mechanism_86,Phase 3,Experimental
+Drug_619,Gene_87,Protein_50,Anxiety,Atypical Antipsychotic,Mechanism_121,Approved,Experimental
+Drug_620,Gene_71,Protein_172,Depression,Psychedelic,Mechanism_11,Phase 3,Experimental
+Drug_621,Gene_301,Protein_149,Psychosis,SNRI,Mechanism_20,Approved,Experimental
+Drug_622,Gene_211,Protein_20,Anxiety,Atypical Antipsychotic,Mechanism_108,Phase 2,Experimental
+Drug_623,Gene_41,Protein_238,Psychosis,Glycine Modulator,Mechanism_69,Preclinical,Investigational
+Drug_624,Gene_315,Protein_231,Depression,Beta-Blocker,Mechanism_163,Phase 1,Experimental
+Drug_625,Gene_12,Protein_201,Depression,SNRI,Mechanism_154,Phase 3,Investigational
+Drug_626,Gene_122,Protein_264,Anxiety,NaSSA,Mechanism_61,Phase 2,Experimental
+Drug_627,Gene_300,Protein_210,Psychosis,Glutamatergic Modulator,Mechanism_92,Approved,Experimental
+Drug_628,Gene_87,Protein_202,Psychosis,Azapirone,Mechanism_6,Preclinical,Experimental
+Drug_629,Gene_18,Protein_214,Psychosis,Glutamatergic Modulator,Mechanism_5,Phase 3,Experimental
+Drug_630,Gene_493,Protein_55,Depression,SNRI,Mechanism_72,Preclinical,Investigational
+Drug_631,Gene_208,Protein_155,Anxiety,Glycine Modulator,Mechanism_171,Phase 3,Experimental
+Drug_632,Gene_270,Protein_17,Depression,Psychedelic,Mechanism_50,Phase 3,Experimental
+Drug_633,Gene_383,Protein_247,Anxiety,Azapirone,Mechanism_58,Preclinical,Experimental
+Drug_634,Gene_190,Protein_117,Anxiety,SNRI,Mechanism_84,Approved,Approved
+Drug_635,Gene_37,Protein_53,Depression,SSRI,Mechanism_177,Phase 2,Experimental
+Drug_636,Gene_185,Protein_96,Anxiety,NDRI,Mechanism_156,Approved,Investigational
+Drug_637,Gene_281,Protein_55,Anxiety,Atypical Antipsychotic,Mechanism_173,Preclinical,Experimental
+Drug_638,Gene_63,Protein_300,Depression,NDRI,Mechanism_1,Preclinical,Investigational
+Drug_639,Gene_235,Protein_4,Anxiety,Orexin Antagonist,Mechanism_146,Phase 3,Experimental
+Drug_640,Gene_365,Protein_164,Psychosis,NDRI,Mechanism_13,Phase 3,Approved
+Drug_641,Gene_143,Protein_53,Depression,Glutamatergic Modulator,Mechanism_114,Approved,Investigational
+Drug_642,Gene_292,Protein_58,Anxiety,Psychedelic,Mechanism_20,Phase 2,Experimental
+Drug_643,Gene_195,Protein_150,Depression,Benzodiazepine,Mechanism_26,Phase 1,Experimental
+Drug_644,Gene_443,Protein_241,Depression,Atypical Antipsychotic,Mechanism_86,Approved,Investigational
+Drug_645,Gene_119,Protein_243,Depression,Orexin Antagonist,Mechanism_185,Phase 3,Approved
+Drug_646,Gene_258,Protein_153,Anxiety,NDRI,Mechanism_54,Approved,Investigational
+Drug_647,Gene_394,Protein_256,Depression,NDRI,Mechanism_92,Phase 2,Investigational
+Drug_648,Gene_384,Protein_188,Psychosis,Psychedelic,Mechanism_24,Approved,Approved
+Drug_649,Gene_315,Protein_90,Psychosis,SSRI,Mechanism_55,Phase 2,Experimental
+Drug_650,Gene_375,Protein_194,Psychosis,Beta-Blocker,Mechanism_114,Phase 2,Approved
+Drug_651,Gene_319,Protein_149,Anxiety,SSRI,Mechanism_138,Phase 1,Approved
+Drug_652,Gene_176,Protein_80,Anxiety,NDRI,Mechanism_129,Phase 2,Investigational
+Drug_653,Gene_231,Protein_30,Depression,NaSSA,Mechanism_77,Preclinical,Approved
+Drug_654,Gene_51,Protein_32,Depression,Benzodiazepine,Mechanism_1,Approved,Investigational
+Drug_655,Gene_327,Protein_202,Depression,SNRI,Mechanism_98,Approved,Investigational
+Drug_656,Gene_461,Protein_296,Depression,SNRI,Mechanism_22,Phase 3,Approved
+Drug_657,Gene_331,Protein_254,Depression,Glutamatergic Modulator,Mechanism_107,Preclinical,Experimental
+Drug_658,Gene_63,Protein_81,Anxiety,Azapirone,Mechanism_28,Phase 1,Approved
+Drug_659,Gene_489,Protein_246,Psychosis,NaSSA,Mechanism_184,Phase 2,Experimental
+Drug_660,Gene_391,Protein_238,Anxiety,NaSSA,Mechanism_69,Phase 3,Experimental
+Drug_661,Gene_494,Protein_258,Psychosis,Psychedelic,Mechanism_8,Phase 1,Investigational
+Drug_662,Gene_466,Protein_28,Psychosis,Glutamatergic Modulator,Mechanism_197,Approved,Experimental
+Drug_663,Gene_72,Protein_290,Psychosis,Atypical Antipsychotic,Mechanism_109,Phase 1,Investigational
+Drug_664,Gene_74,Protein_38,Anxiety,SNRI,Mechanism_55,Approved,Approved
+Drug_665,Gene_385,Protein_80,Psychosis,SSRI,Mechanism_68,Approved,Experimental
+Drug_666,Gene_146,Protein_75,Depression,NaSSA,Mechanism_76,Approved,Approved
+Drug_667,Gene_394,Protein_234,Depression,SSRI,Mechanism_187,Phase 3,Approved
+Drug_668,Gene_192,Protein_197,Psychosis,NDRI,Mechanism_63,Phase 3,Approved
+Drug_669,Gene_197,Protein_66,Depression,Glutamatergic Modulator,Mechanism_148,Phase 1,Investigational
+Drug_670,Gene_460,Protein_40,Psychosis,Benzodiazepine,Mechanism_64,Preclinical,Experimental
+Drug_671,Gene_302,Protein_261,Psychosis,NaSSA,Mechanism_97,Approved,Experimental
+Drug_672,Gene_24,Protein_235,Anxiety,Glutamatergic Modulator,Mechanism_62,Phase 2,Experimental
+Drug_673,Gene_313,Protein_56,Psychosis,NDRI,Mechanism_7,Preclinical,Approved
+Drug_674,Gene_181,Protein_97,Anxiety,SNRI,Mechanism_94,Phase 2,Experimental
+Drug_675,Gene_476,Protein_273,Anxiety,Beta-Blocker,Mechanism_18,Phase 3,Approved
+Drug_676,Gene_171,Protein_117,Depression,Benzodiazepine,Mechanism_182,Phase 1,Experimental
+Drug_677,Gene_87,Protein_172,Anxiety,Glutamatergic Modulator,Mechanism_18,Phase 1,Approved
+Drug_678,Gene_203,Protein_109,Anxiety,SNRI,Mechanism_187,Approved,Approved
+Drug_679,Gene_85,Protein_151,Anxiety,Orexin Antagonist,Mechanism_169,Phase 2,Approved
+Drug_680,Gene_12,Protein_67,Psychosis,SSRI,Mechanism_151,Preclinical,Experimental
+Drug_681,Gene_88,Protein_1,Psychosis,Glutamatergic Modulator,Mechanism_110,Phase 2,Investigational
+Drug_682,Gene_361,Protein_113,Depression,Atypical Antipsychotic,Mechanism_7,Phase 3,Approved
+Drug_683,Gene_88,Protein_241,Depression,Glutamatergic Modulator,Mechanism_38,Phase 3,Approved
+Drug_684,Gene_457,Protein_206,Depression,Glutamatergic Modulator,Mechanism_46,Phase 3,Investigational
+Drug_685,Gene_323,Protein_33,Psychosis,SSRI,Mechanism_115,Preclinical,Experimental
+Drug_686,Gene_438,Protein_248,Depression,Beta-Blocker,Mechanism_29,Preclinical,Approved
+Drug_687,Gene_221,Protein_250,Depression,NaSSA,Mechanism_131,Phase 2,Approved
+Drug_688,Gene_139,Protein_191,Anxiety,Beta-Blocker,Mechanism_9,Phase 2,Approved
+Drug_689,Gene_112,Protein_54,Depression,SNRI,Mechanism_175,Phase 3,Approved
+Drug_690,Gene_219,Protein_178,Depression,SSRI,Mechanism_112,Phase 1,Approved
+Drug_691,Gene_176,Protein_174,Psychosis,Glutamatergic Modulator,Mechanism_52,Approved,Experimental
+Drug_692,Gene_439,Protein_210,Anxiety,SNRI,Mechanism_135,Approved,Experimental
+Drug_693,Gene_344,Protein_189,Anxiety,Azapirone,Mechanism_149,Phase 2,Approved
+Drug_694,Gene_71,Protein_234,Psychosis,NaSSA,Mechanism_156,Phase 3,Experimental
+Drug_695,Gene_140,Protein_197,Depression,Glutamatergic Modulator,Mechanism_156,Phase 3,Investigational
+Drug_696,Gene_272,Protein_272,Psychosis,SNRI,Mechanism_191,Approved,Investigational
+Drug_697,Gene_218,Protein_215,Psychosis,Beta-Blocker,Mechanism_61,Preclinical,Experimental
+Drug_698,Gene_61,Protein_221,Psychosis,Benzodiazepine,Mechanism_200,Phase 3,Approved
+Drug_699,Gene_201,Protein_280,Psychosis,NaSSA,Mechanism_4,Phase 3,Experimental
+Drug_700,Gene_148,Protein_209,Depression,SNRI,Mechanism_11,Preclinical,Investigational
+Drug_701,Gene_419,Protein_243,Psychosis,Glycine Modulator,Mechanism_104,Phase 3,Investigational
+Drug_702,Gene_69,Protein_144,Psychosis,Azapirone,Mechanism_130,Phase 2,Investigational
+Drug_703,Gene_429,Protein_166,Depression,SSRI,Mechanism_119,Approved,Approved
+Drug_704,Gene_187,Protein_288,Anxiety,NaSSA,Mechanism_3,Phase 2,Investigational
+Drug_705,Gene_127,Protein_126,Anxiety,NaSSA,Mechanism_101,Approved,Investigational
+Drug_706,Gene_106,Protein_61,Psychosis,Beta-Blocker,Mechanism_24,Approved,Investigational
+Drug_707,Gene_290,Protein_34,Psychosis,Psychedelic,Mechanism_184,Phase 3,Approved
+Drug_708,Gene_41,Protein_298,Depression,Glycine Modulator,Mechanism_62,Phase 2,Experimental
+Drug_709,Gene_252,Protein_34,Anxiety,Azapirone,Mechanism_22,Phase 1,Approved
+Drug_710,Gene_110,Protein_291,Depression,SSRI,Mechanism_9,Phase 1,Experimental
+Drug_711,Gene_167,Protein_45,Anxiety,SSRI,Mechanism_147,Approved,Experimental
+Drug_712,Gene_345,Protein_153,Anxiety,Glycine Modulator,Mechanism_181,Preclinical,Approved
+Drug_713,Gene_383,Protein_224,Psychosis,Psychedelic,Mechanism_194,Approved,Approved
+Drug_714,Gene_12,Protein_298,Anxiety,NDRI,Mechanism_44,Phase 1,Approved
+Drug_715,Gene_492,Protein_132,Psychosis,Orexin Antagonist,Mechanism_140,Phase 1,Investigational
+Drug_716,Gene_103,Protein_54,Psychosis,Orexin Antagonist,Mechanism_136,Phase 1,Approved
+Drug_717,Gene_226,Protein_251,Anxiety,Glutamatergic Modulator,Mechanism_20,Preclinical,Investigational
+Drug_718,Gene_260,Protein_177,Psychosis,NDRI,Mechanism_43,Phase 2,Investigational
+Drug_719,Gene_67,Protein_98,Psychosis,SSRI,Mechanism_28,Approved,Approved
+Drug_720,Gene_206,Protein_198,Depression,Psychedelic,Mechanism_140,Phase 2,Experimental
+Drug_721,Gene_364,Protein_91,Psychosis,NaSSA,Mechanism_77,Phase 2,Investigational
+Drug_722,Gene_213,Protein_288,Psychosis,Benzodiazepine,Mechanism_180,Phase 2,Experimental
+Drug_723,Gene_286,Protein_48,Anxiety,NaSSA,Mechanism_154,Phase 2,Approved
+Drug_724,Gene_146,Protein_142,Psychosis,Glutamatergic Modulator,Mechanism_17,Phase 2,Experimental
+Drug_725,Gene_116,Protein_39,Depression,Orexin Antagonist,Mechanism_51,Phase 1,Investigational
+Drug_726,Gene_80,Protein_121,Depression,Orexin Antagonist,Mechanism_116,Preclinical,Experimental
+Drug_727,Gene_56,Protein_215,Anxiety,SNRI,Mechanism_165,Approved,Investigational
+Drug_728,Gene_483,Protein_245,Psychosis,Beta-Blocker,Mechanism_153,Approved,Experimental
+Drug_729,Gene_156,Protein_188,Depression,Atypical Antipsychotic,Mechanism_83,Preclinical,Approved
+Drug_730,Gene_62,Protein_37,Depression,NDRI,Mechanism_55,Phase 2,Approved
+Drug_731,Gene_351,Protein_185,Psychosis,Atypical Antipsychotic,Mechanism_175,Phase 1,Experimental
+Drug_732,Gene_276,Protein_294,Psychosis,Atypical Antipsychotic,Mechanism_121,Phase 3,Experimental
+Drug_733,Gene_151,Protein_205,Depression,Atypical Antipsychotic,Mechanism_60,Phase 1,Investigational
+Drug_734,Gene_240,Protein_255,Anxiety,Glutamatergic Modulator,Mechanism_152,Phase 1,Experimental
+Drug_735,Gene_396,Protein_94,Depression,Azapirone,Mechanism_66,Phase 3,Experimental
+Drug_736,Gene_478,Protein_55,Depression,Azapirone,Mechanism_2,Phase 1,Approved
+Drug_737,Gene_47,Protein_243,Anxiety,Glutamatergic Modulator,Mechanism_185,Phase 2,Approved
+Drug_738,Gene_49,Protein_162,Depression,SNRI,Mechanism_30,Phase 3,Approved
+Drug_739,Gene_35,Protein_109,Psychosis,NaSSA,Mechanism_12,Approved,Investigational
+Drug_740,Gene_218,Protein_9,Depression,NaSSA,Mechanism_156,Phase 2,Experimental
+Drug_741,Gene_312,Protein_149,Depression,NaSSA,Mechanism_23,Approved,Investigational
+Drug_742,Gene_492,Protein_184,Depression,Psychedelic,Mechanism_123,Preclinical,Experimental
+Drug_743,Gene_284,Protein_271,Psychosis,Glycine Modulator,Mechanism_46,Approved,Investigational
+Drug_744,Gene_46,Protein_146,Depression,Glutamatergic Modulator,Mechanism_4,Approved,Approved
+Drug_745,Gene_398,Protein_99,Anxiety,NaSSA,Mechanism_19,Phase 1,Investigational
+Drug_746,Gene_468,Protein_126,Anxiety,Azapirone,Mechanism_78,Phase 1,Experimental
+Drug_747,Gene_330,Protein_149,Anxiety,Benzodiazepine,Mechanism_81,Approved,Investigational
+Drug_748,Gene_212,Protein_76,Depression,Orexin Antagonist,Mechanism_53,Preclinical,Experimental
+Drug_749,Gene_494,Protein_159,Anxiety,SSRI,Mechanism_31,Phase 1,Experimental
+Drug_750,Gene_451,Protein_25,Psychosis,Glycine Modulator,Mechanism_93,Phase 2,Investigational
+Drug_751,Gene_1,Protein_32,Psychosis,Beta-Blocker,Mechanism_134,Phase 1,Experimental
+Drug_752,Gene_316,Protein_273,Psychosis,NaSSA,Mechanism_195,Phase 3,Experimental
+Drug_753,Gene_278,Protein_182,Anxiety,Benzodiazepine,Mechanism_132,Phase 2,Investigational
+Drug_754,Gene_420,Protein_156,Depression,NDRI,Mechanism_60,Phase 2,Experimental
+Drug_755,Gene_342,Protein_1,Anxiety,NaSSA,Mechanism_139,Approved,Investigational
+Drug_756,Gene_475,Protein_297,Anxiety,Beta-Blocker,Mechanism_171,Phase 1,Approved
+Drug_757,Gene_277,Protein_58,Depression,Orexin Antagonist,Mechanism_18,Phase 1,Approved
+Drug_758,Gene_109,Protein_10,Anxiety,Psychedelic,Mechanism_74,Phase 3,Approved
+Drug_759,Gene_203,Protein_240,Depression,Benzodiazepine,Mechanism_68,Phase 1,Experimental
+Drug_760,Gene_313,Protein_249,Depression,Beta-Blocker,Mechanism_129,Phase 3,Experimental
+Drug_761,Gene_268,Protein_91,Depression,Azapirone,Mechanism_152,Phase 3,Investigational
+Drug_762,Gene_482,Protein_222,Anxiety,Psychedelic,Mechanism_116,Phase 1,Experimental
+Drug_763,Gene_208,Protein_56,Anxiety,Glutamatergic Modulator,Mechanism_98,Approved,Investigational
+Drug_764,Gene_114,Protein_245,Psychosis,SNRI,Mechanism_154,Preclinical,Investigational
+Drug_765,Gene_380,Protein_228,Depression,SSRI,Mechanism_187,Phase 2,Experimental
+Drug_766,Gene_36,Protein_234,Anxiety,Orexin Antagonist,Mechanism_33,Approved,Approved
+Drug_767,Gene_141,Protein_256,Depression,Benzodiazepine,Mechanism_48,Phase 3,Approved
+Drug_768,Gene_100,Protein_193,Depression,SNRI,Mechanism_21,Phase 3,Experimental
+Drug_769,Gene_118,Protein_187,Psychosis,Beta-Blocker,Mechanism_80,Phase 3,Approved
+Drug_770,Gene_221,Protein_149,Psychosis,NDRI,Mechanism_88,Preclinical,Experimental
+Drug_771,Gene_320,Protein_268,Anxiety,Atypical Antipsychotic,Mechanism_144,Phase 2,Approved
+Drug_772,Gene_418,Protein_157,Anxiety,Atypical Antipsychotic,Mechanism_105,Preclinical,Approved
+Drug_773,Gene_243,Protein_244,Psychosis,Benzodiazepine,Mechanism_88,Approved,Experimental
+Drug_774,Gene_271,Protein_117,Psychosis,Beta-Blocker,Mechanism_148,Phase 2,Investigational
+Drug_775,Gene_403,Protein_245,Psychosis,Orexin Antagonist,Mechanism_119,Phase 2,Experimental
+Drug_776,Gene_230,Protein_79,Psychosis,Azapirone,Mechanism_79,Approved,Investigational
+Drug_777,Gene_180,Protein_235,Anxiety,Psychedelic,Mechanism_47,Phase 2,Investigational
+Drug_778,Gene_164,Protein_268,Anxiety,SNRI,Mechanism_128,Phase 3,Approved
+Drug_779,Gene_281,Protein_104,Depression,Glutamatergic Modulator,Mechanism_49,Phase 3,Approved
+Drug_780,Gene_393,Protein_252,Psychosis,SNRI,Mechanism_141,Approved,Approved
+Drug_781,Gene_202,Protein_14,Depression,Glutamatergic Modulator,Mechanism_130,Approved,Investigational
+Drug_782,Gene_208,Protein_115,Depression,Beta-Blocker,Mechanism_116,Approved,Investigational
+Drug_783,Gene_352,Protein_135,Psychosis,Glycine Modulator,Mechanism_12,Phase 1,Approved
+Drug_784,Gene_347,Protein_77,Psychosis,Psychedelic,Mechanism_24,Approved,Experimental
+Drug_785,Gene_444,Protein_85,Anxiety,Atypical Antipsychotic,Mechanism_78,Phase 1,Experimental
+Drug_786,Gene_287,Protein_74,Psychosis,Beta-Blocker,Mechanism_140,Phase 1,Investigational
+Drug_787,Gene_405,Protein_224,Psychosis,SSRI,Mechanism_148,Phase 1,Investigational
+Drug_788,Gene_249,Protein_241,Depression,Orexin Antagonist,Mechanism_112,Preclinical,Experimental
+Drug_789,Gene_210,Protein_161,Depression,Azapirone,Mechanism_99,Phase 2,Approved
+Drug_790,Gene_7,Protein_24,Psychosis,Atypical Antipsychotic,Mechanism_95,Phase 1,Investigational
+Drug_791,Gene_167,Protein_289,Psychosis,Benzodiazepine,Mechanism_31,Phase 1,Approved
+Drug_792,Gene_246,Protein_130,Depression,SNRI,Mechanism_135,Phase 1,Investigational
+Drug_793,Gene_31,Protein_116,Anxiety,Benzodiazepine,Mechanism_67,Approved,Experimental
+Drug_794,Gene_449,Protein_273,Depression,Benzodiazepine,Mechanism_38,Preclinical,Experimental
+Drug_795,Gene_103,Protein_243,Anxiety,NDRI,Mechanism_150,Phase 2,Investigational
+Drug_796,Gene_294,Protein_47,Anxiety,Glutamatergic Modulator,Mechanism_98,Phase 1,Approved
+Drug_797,Gene_289,Protein_47,Psychosis,Atypical Antipsychotic,Mechanism_167,Phase 2,Experimental
+Drug_798,Gene_391,Protein_282,Depression,Beta-Blocker,Mechanism_113,Preclinical,Experimental
+Drug_799,Gene_148,Protein_280,Depression,Psychedelic,Mechanism_177,Phase 2,Investigational
+Drug_800,Gene_206,Protein_14,Psychosis,Azapirone,Mechanism_71,Preclinical,Investigational
+Drug_801,Gene_441,Protein_20,Psychosis,SNRI,Mechanism_169,Phase 1,Investigational
+Drug_802,Gene_205,Protein_207,Depression,SSRI,Mechanism_64,Preclinical,Approved
+Drug_803,Gene_445,Protein_272,Depression,NaSSA,Mechanism_181,Preclinical,Experimental
+Drug_804,Gene_401,Protein_230,Anxiety,SNRI,Mechanism_157,Phase 3,Experimental
+Drug_805,Gene_272,Protein_280,Psychosis,Psychedelic,Mechanism_199,Approved,Investigational
+Drug_806,Gene_203,Protein_158,Psychosis,SNRI,Mechanism_107,Preclinical,Approved
+Drug_807,Gene_276,Protein_85,Anxiety,Psychedelic,Mechanism_167,Preclinical,Investigational
+Drug_808,Gene_426,Protein_257,Anxiety,Azapirone,Mechanism_61,Phase 2,Experimental
+Drug_809,Gene_323,Protein_11,Depression,NaSSA,Mechanism_33,Preclinical,Approved
+Drug_810,Gene_316,Protein_72,Depression,Beta-Blocker,Mechanism_20,Approved,Experimental
+Drug_811,Gene_430,Protein_39,Psychosis,Glycine Modulator,Mechanism_14,Phase 2,Investigational
+Drug_812,Gene_419,Protein_168,Depression,SSRI,Mechanism_72,Phase 1,Investigational
+Drug_813,Gene_294,Protein_137,Depression,Atypical Antipsychotic,Mechanism_6,Phase 1,Experimental
+Drug_814,Gene_59,Protein_159,Psychosis,Beta-Blocker,Mechanism_80,Phase 3,Investigational
+Drug_815,Gene_34,Protein_145,Depression,SSRI,Mechanism_164,Preclinical,Experimental
+Drug_816,Gene_44,Protein_85,Anxiety,Glycine Modulator,Mechanism_33,Approved,Approved
+Drug_817,Gene_39,Protein_234,Depression,Glycine Modulator,Mechanism_61,Phase 2,Investigational
+Drug_818,Gene_159,Protein_149,Anxiety,Atypical Antipsychotic,Mechanism_113,Phase 2,Approved
+Drug_819,Gene_151,Protein_150,Depression,Psychedelic,Mechanism_52,Phase 1,Experimental
+Drug_820,Gene_265,Protein_139,Psychosis,Glutamatergic Modulator,Mechanism_42,Preclinical,Experimental
+Drug_821,Gene_141,Protein_270,Depression,NaSSA,Mechanism_121,Preclinical,Investigational
+Drug_822,Gene_384,Protein_4,Psychosis,NDRI,Mechanism_16,Phase 2,Approved
+Drug_823,Gene_144,Protein_14,Depression,Glycine Modulator,Mechanism_167,Phase 3,Investigational
+Drug_824,Gene_53,Protein_82,Psychosis,Orexin Antagonist,Mechanism_48,Phase 2,Experimental
+Drug_825,Gene_329,Protein_67,Depression,Atypical Antipsychotic,Mechanism_129,Phase 1,Experimental
+Drug_826,Gene_94,Protein_160,Depression,Beta-Blocker,Mechanism_71,Phase 1,Approved
+Drug_827,Gene_12,Protein_266,Depression,Glutamatergic Modulator,Mechanism_143,Phase 1,Approved
+Drug_828,Gene_402,Protein_298,Depression,Glutamatergic Modulator,Mechanism_51,Phase 2,Experimental
+Drug_829,Gene_304,Protein_68,Depression,Psychedelic,Mechanism_131,Approved,Approved
+Drug_830,Gene_483,Protein_181,Anxiety,Glutamatergic Modulator,Mechanism_172,Preclinical,Approved
+Drug_831,Gene_430,Protein_165,Psychosis,NDRI,Mechanism_87,Phase 3,Investigational
+Drug_832,Gene_142,Protein_123,Anxiety,NDRI,Mechanism_60,Preclinical,Approved
+Drug_833,Gene_152,Protein_222,Psychosis,Orexin Antagonist,Mechanism_105,Preclinical,Investigational
+Drug_834,Gene_83,Protein_292,Anxiety,Orexin Antagonist,Mechanism_48,Phase 2,Investigational
+Drug_835,Gene_430,Protein_262,Anxiety,NaSSA,Mechanism_46,Preclinical,Experimental
+Drug_836,Gene_34,Protein_129,Anxiety,Atypical Antipsychotic,Mechanism_41,Phase 1,Approved
+Drug_837,Gene_177,Protein_150,Psychosis,Atypical Antipsychotic,Mechanism_200,Phase 3,Experimental
+Drug_838,Gene_158,Protein_99,Psychosis,Benzodiazepine,Mechanism_12,Phase 1,Experimental
+Drug_839,Gene_317,Protein_92,Psychosis,NaSSA,Mechanism_3,Phase 1,Approved
+Drug_840,Gene_85,Protein_208,Psychosis,Beta-Blocker,Mechanism_184,Phase 2,Experimental
+Drug_841,Gene_261,Protein_66,Psychosis,Azapirone,Mechanism_182,Preclinical,Approved
+Drug_842,Gene_217,Protein_83,Psychosis,Psychedelic,Mechanism_27,Phase 1,Investigational
+Drug_843,Gene_477,Protein_183,Anxiety,Azapirone,Mechanism_199,Preclinical,Approved
+Drug_844,Gene_299,Protein_199,Anxiety,NDRI,Mechanism_43,Approved,Investigational
+Drug_845,Gene_80,Protein_19,Depression,Benzodiazepine,Mechanism_13,Phase 2,Investigational
+Drug_846,Gene_134,Protein_78,Psychosis,Azapirone,Mechanism_174,Approved,Experimental
+Drug_847,Gene_3,Protein_176,Depression,NaSSA,Mechanism_54,Preclinical,Experimental
+Drug_848,Gene_156,Protein_257,Anxiety,Azapirone,Mechanism_26,Phase 1,Investigational
+Drug_849,Gene_457,Protein_131,Psychosis,Azapirone,Mechanism_65,Phase 2,Investigational
+Drug_850,Gene_280,Protein_287,Depression,Azapirone,Mechanism_104,Preclinical,Investigational
+Drug_851,Gene_444,Protein_288,Anxiety,Azapirone,Mechanism_161,Phase 3,Approved
+Drug_852,Gene_77,Protein_283,Psychosis,Psychedelic,Mechanism_68,Phase 2,Experimental
+Drug_853,Gene_498,Protein_54,Depression,Glutamatergic Modulator,Mechanism_158,Phase 2,Experimental
+Drug_854,Gene_347,Protein_77,Depression,Azapirone,Mechanism_7,Phase 1,Investigational
+Drug_855,Gene_366,Protein_97,Anxiety,Azapirone,Mechanism_169,Phase 3,Investigational
+Drug_856,Gene_177,Protein_116,Psychosis,SNRI,Mechanism_64,Preclinical,Experimental
+Drug_857,Gene_191,Protein_34,Depression,NaSSA,Mechanism_108,Approved,Experimental
+Drug_858,Gene_131,Protein_102,Psychosis,NDRI,Mechanism_111,Preclinical,Investigational
+Drug_859,Gene_134,Protein_235,Psychosis,Glycine Modulator,Mechanism_117,Phase 1,Investigational
+Drug_860,Gene_425,Protein_176,Depression,Psychedelic,Mechanism_87,Phase 3,Experimental
+Drug_861,Gene_69,Protein_109,Depression,Beta-Blocker,Mechanism_158,Preclinical,Experimental
+Drug_862,Gene_47,Protein_152,Depression,Benzodiazepine,Mechanism_87,Phase 1,Investigational
+Drug_863,Gene_330,Protein_218,Psychosis,SNRI,Mechanism_134,Phase 2,Investigational
+Drug_864,Gene_3,Protein_113,Depression,Atypical Antipsychotic,Mechanism_17,Phase 2,Approved
+Drug_865,Gene_430,Protein_116,Psychosis,SNRI,Mechanism_197,Phase 2,Approved
+Drug_866,Gene_160,Protein_64,Depression,SNRI,Mechanism_138,Phase 2,Investigational
+Drug_867,Gene_385,Protein_253,Depression,Beta-Blocker,Mechanism_139,Phase 2,Experimental
+Drug_868,Gene_68,Protein_8,Depression,Beta-Blocker,Mechanism_170,Preclinical,Approved
+Drug_869,Gene_200,Protein_193,Psychosis,Atypical Antipsychotic,Mechanism_15,Phase 1,Experimental
+Drug_870,Gene_240,Protein_71,Anxiety,Atypical Antipsychotic,Mechanism_126,Approved,Investigational
+Drug_871,Gene_488,Protein_136,Psychosis,SNRI,Mechanism_180,Preclinical,Investigational
+Drug_872,Gene_223,Protein_167,Psychosis,Glutamatergic Modulator,Mechanism_194,Approved,Approved
+Drug_873,Gene_158,Protein_59,Depression,SSRI,Mechanism_37,Phase 2,Investigational
+Drug_874,Gene_311,Protein_168,Depression,Azapirone,Mechanism_175,Phase 3,Investigational
+Drug_875,Gene_374,Protein_196,Psychosis,SNRI,Mechanism_147,Phase 3,Experimental
+Drug_876,Gene_298,Protein_148,Anxiety,SNRI,Mechanism_144,Approved,Experimental
+Drug_877,Gene_10,Protein_279,Psychosis,Psychedelic,Mechanism_72,Phase 2,Investigational
+Drug_878,Gene_69,Protein_130,Psychosis,NDRI,Mechanism_67,Phase 1,Approved
+Drug_879,Gene_69,Protein_273,Depression,Glutamatergic Modulator,Mechanism_95,Preclinical,Experimental
+Drug_880,Gene_25,Protein_50,Anxiety,Beta-Blocker,Mechanism_56,Approved,Experimental
+Drug_881,Gene_308,Protein_115,Psychosis,Glycine Modulator,Mechanism_63,Approved,Investigational
+Drug_882,Gene_113,Protein_278,Anxiety,Azapirone,Mechanism_76,Phase 3,Experimental
+Drug_883,Gene_99,Protein_47,Psychosis,Orexin Antagonist,Mechanism_46,Approved,Experimental
+Drug_884,Gene_496,Protein_133,Depression,NaSSA,Mechanism_176,Phase 3,Approved
+Drug_885,Gene_280,Protein_62,Anxiety,Psychedelic,Mechanism_51,Approved,Experimental
+Drug_886,Gene_284,Protein_37,Depression,Azapirone,Mechanism_114,Approved,Investigational
+Drug_887,Gene_408,Protein_95,Anxiety,Glycine Modulator,Mechanism_146,Approved,Investigational
+Drug_888,Gene_391,Protein_15,Anxiety,Glutamatergic Modulator,Mechanism_182,Phase 2,Experimental
+Drug_889,Gene_232,Protein_130,Depression,Azapirone,Mechanism_59,Phase 1,Experimental
+Drug_890,Gene_57,Protein_49,Anxiety,NDRI,Mechanism_48,Phase 1,Investigational
+Drug_891,Gene_453,Protein_191,Psychosis,NaSSA,Mechanism_139,Approved,Approved
+Drug_892,Gene_253,Protein_227,Psychosis,SNRI,Mechanism_194,Phase 1,Approved
+Drug_893,Gene_251,Protein_183,Psychosis,NaSSA,Mechanism_168,Phase 1,Investigational
+Drug_894,Gene_223,Protein_80,Anxiety,Benzodiazepine,Mechanism_6,Approved,Investigational
+Drug_895,Gene_295,Protein_55,Anxiety,Benzodiazepine,Mechanism_147,Phase 3,Experimental
+Drug_896,Gene_150,Protein_113,Depression,NaSSA,Mechanism_10,Phase 3,Approved
+Drug_897,Gene_183,Protein_187,Psychosis,NDRI,Mechanism_41,Phase 1,Approved
+Drug_898,Gene_141,Protein_203,Psychosis,Glycine Modulator,Mechanism_97,Phase 1,Approved
+Drug_899,Gene_178,Protein_207,Anxiety,SSRI,Mechanism_41,Phase 1,Experimental
+Drug_900,Gene_145,Protein_205,Anxiety,Orexin Antagonist,Mechanism_42,Phase 1,Approved
+Drug_901,Gene_305,Protein_16,Psychosis,Benzodiazepine,Mechanism_127,Phase 1,Approved
+Drug_902,Gene_482,Protein_106,Depression,Orexin Antagonist,Mechanism_60,Preclinical,Approved
+Drug_903,Gene_461,Protein_188,Depression,NaSSA,Mechanism_145,Phase 2,Experimental
+Drug_904,Gene_484,Protein_37,Anxiety,Glycine Modulator,Mechanism_150,Phase 3,Approved
+Drug_905,Gene_436,Protein_210,Psychosis,Orexin Antagonist,Mechanism_108,Phase 3,Experimental
+Drug_906,Gene_161,Protein_198,Anxiety,NaSSA,Mechanism_156,Approved,Approved
+Drug_907,Gene_132,Protein_274,Depression,NDRI,Mechanism_133,Preclinical,Investigational
+Drug_908,Gene_87,Protein_53,Depression,Atypical Antipsychotic,Mechanism_137,Preclinical,Experimental
+Drug_909,Gene_69,Protein_254,Psychosis,Orexin Antagonist,Mechanism_34,Preclinical,Experimental
+Drug_910,Gene_178,Protein_262,Depression,Atypical Antipsychotic,Mechanism_103,Phase 3,Investigational
+Drug_911,Gene_52,Protein_293,Anxiety,Glycine Modulator,Mechanism_157,Phase 3,Investigational
+Drug_912,Gene_355,Protein_247,Depression,Azapirone,Mechanism_199,Phase 3,Experimental
+Drug_913,Gene_184,Protein_188,Anxiety,SSRI,Mechanism_92,Phase 1,Approved
+Drug_914,Gene_112,Protein_59,Psychosis,SNRI,Mechanism_169,Phase 1,Approved
+Drug_915,Gene_365,Protein_168,Psychosis,NDRI,Mechanism_48,Phase 1,Investigational
+Drug_916,Gene_314,Protein_79,Anxiety,Atypical Antipsychotic,Mechanism_46,Preclinical,Approved
+Drug_917,Gene_283,Protein_72,Depression,Orexin Antagonist,Mechanism_112,Approved,Experimental
+Drug_918,Gene_129,Protein_81,Anxiety,SSRI,Mechanism_132,Phase 1,Investigational
+Drug_919,Gene_265,Protein_241,Anxiety,Beta-Blocker,Mechanism_177,Phase 2,Investigational
+Drug_920,Gene_283,Protein_171,Depression,Azapirone,Mechanism_92,Preclinical,Experimental
+Drug_921,Gene_417,Protein_122,Anxiety,Orexin Antagonist,Mechanism_131,Preclinical,Experimental
+Drug_922,Gene_117,Protein_189,Psychosis,Azapirone,Mechanism_197,Phase 2,Experimental
+Drug_923,Gene_209,Protein_52,Anxiety,SSRI,Mechanism_5,Preclinical,Investigational
+Drug_924,Gene_144,Protein_146,Depression,Atypical Antipsychotic,Mechanism_158,Phase 2,Experimental
+Drug_925,Gene_479,Protein_139,Depression,NDRI,Mechanism_146,Preclinical,Approved
+Drug_926,Gene_6,Protein_147,Anxiety,Psychedelic,Mechanism_54,Approved,Experimental
+Drug_927,Gene_425,Protein_39,Anxiety,SNRI,Mechanism_23,Approved,Approved
+Drug_928,Gene_430,Protein_126,Psychosis,Azapirone,Mechanism_10,Preclinical,Experimental
+Drug_929,Gene_365,Protein_266,Psychosis,Atypical Antipsychotic,Mechanism_108,Phase 3,Investigational
+Drug_930,Gene_3,Protein_274,Anxiety,Azapirone,Mechanism_11,Phase 2,Experimental
+Drug_931,Gene_373,Protein_34,Anxiety,SSRI,Mechanism_87,Approved,Approved
+Drug_932,Gene_92,Protein_7,Depression,Psychedelic,Mechanism_200,Approved,Experimental
+Drug_933,Gene_474,Protein_189,Anxiety,Psychedelic,Mechanism_173,Phase 3,Experimental
+Drug_934,Gene_293,Protein_250,Depression,NDRI,Mechanism_56,Preclinical,Approved
+Drug_935,Gene_301,Protein_4,Psychosis,SSRI,Mechanism_88,Preclinical,Approved
+Drug_936,Gene_396,Protein_247,Depression,SNRI,Mechanism_72,Phase 1,Approved
+Drug_937,Gene_327,Protein_160,Anxiety,SSRI,Mechanism_78,Preclinical,Investigational
+Drug_938,Gene_244,Protein_25,Anxiety,Benzodiazepine,Mechanism_181,Preclinical,Approved
+Drug_939,Gene_77,Protein_102,Psychosis,Atypical Antipsychotic,Mechanism_40,Approved,Investigational
+Drug_940,Gene_472,Protein_14,Psychosis,Glycine Modulator,Mechanism_38,Phase 2,Investigational
+Drug_941,Gene_95,Protein_216,Depression,Beta-Blocker,Mechanism_154,Approved,Experimental
+Drug_942,Gene_318,Protein_13,Depression,Benzodiazepine,Mechanism_27,Phase 3,Investigational
+Drug_943,Gene_313,Protein_2,Psychosis,Azapirone,Mechanism_150,Phase 3,Investigational
+Drug_944,Gene_9,Protein_45,Psychosis,Orexin Antagonist,Mechanism_23,Phase 2,Investigational
+Drug_945,Gene_338,Protein_138,Depression,Psychedelic,Mechanism_149,Phase 3,Approved
+Drug_946,Gene_357,Protein_193,Psychosis,Glutamatergic Modulator,Mechanism_81,Approved,Approved
+Drug_947,Gene_461,Protein_196,Depression,Beta-Blocker,Mechanism_197,Preclinical,Experimental
+Drug_948,Gene_108,Protein_169,Psychosis,Psychedelic,Mechanism_16,Phase 2,Investigational
+Drug_949,Gene_363,Protein_248,Depression,Azapirone,Mechanism_197,Approved,Investigational
+Drug_950,Gene_450,Protein_194,Psychosis,Glycine Modulator,Mechanism_62,Phase 3,Investigational
+Drug_951,Gene_251,Protein_150,Anxiety,SSRI,Mechanism_110,Phase 2,Investigational
+Drug_952,Gene_332,Protein_199,Depression,SSRI,Mechanism_159,Phase 3,Investigational
+Drug_953,Gene_141,Protein_215,Anxiety,Azapirone,Mechanism_65,Phase 1,Investigational
+Drug_954,Gene_288,Protein_39,Psychosis,Glycine Modulator,Mechanism_113,Phase 3,Investigational
+Drug_955,Gene_255,Protein_64,Anxiety,Atypical Antipsychotic,Mechanism_23,Phase 3,Approved
+Drug_956,Gene_83,Protein_215,Anxiety,Psychedelic,Mechanism_18,Preclinical,Investigational
+Drug_957,Gene_101,Protein_76,Anxiety,Atypical Antipsychotic,Mechanism_165,Phase 3,Investigational
+Drug_958,Gene_86,Protein_233,Psychosis,Benzodiazepine,Mechanism_44,Phase 3,Approved
+Drug_959,Gene_438,Protein_240,Anxiety,SNRI,Mechanism_8,Preclinical,Investigational
+Drug_960,Gene_194,Protein_123,Psychosis,NDRI,Mechanism_190,Approved,Approved
+Drug_961,Gene_71,Protein_123,Anxiety,Orexin Antagonist,Mechanism_198,Phase 3,Approved
+Drug_962,Gene_429,Protein_46,Psychosis,Psychedelic,Mechanism_168,Preclinical,Investigational
+Drug_963,Gene_142,Protein_85,Depression,Atypical Antipsychotic,Mechanism_8,Approved,Investigational
+Drug_964,Gene_296,Protein_272,Psychosis,Atypical Antipsychotic,Mechanism_88,Preclinical,Experimental
+Drug_965,Gene_155,Protein_73,Anxiety,Benzodiazepine,Mechanism_136,Phase 3,Investigational
+Drug_966,Gene_240,Protein_270,Psychosis,Orexin Antagonist,Mechanism_128,Phase 1,Experimental
+Drug_967,Gene_395,Protein_190,Anxiety,Orexin Antagonist,Mechanism_101,Preclinical,Investigational
+Drug_968,Gene_215,Protein_145,Depression,SSRI,Mechanism_96,Phase 3,Investigational
+Drug_969,Gene_494,Protein_49,Psychosis,Benzodiazepine,Mechanism_170,Phase 3,Investigational
+Drug_970,Gene_188,Protein_82,Depression,Glutamatergic Modulator,Mechanism_100,Phase 2,Investigational
+Drug_971,Gene_253,Protein_52,Depression,Benzodiazepine,Mechanism_161,Phase 1,Approved
+Drug_972,Gene_442,Protein_259,Psychosis,Benzodiazepine,Mechanism_177,Phase 3,Investigational
+Drug_973,Gene_121,Protein_106,Psychosis,Glycine Modulator,Mechanism_37,Approved,Experimental
+Drug_974,Gene_488,Protein_151,Depression,Glycine Modulator,Mechanism_94,Approved,Approved
+Drug_975,Gene_171,Protein_27,Depression,SSRI,Mechanism_73,Preclinical,Experimental
+Drug_976,Gene_237,Protein_290,Psychosis,Glutamatergic Modulator,Mechanism_23,Phase 2,Approved
+Drug_977,Gene_346,Protein_130,Psychosis,Glutamatergic Modulator,Mechanism_144,Approved,Approved
+Drug_978,Gene_462,Protein_265,Anxiety,Orexin Antagonist,Mechanism_145,Phase 1,Experimental
+Drug_979,Gene_197,Protein_275,Anxiety,Benzodiazepine,Mechanism_169,Preclinical,Approved
+Drug_980,Gene_367,Protein_259,Psychosis,Beta-Blocker,Mechanism_168,Phase 2,Investigational
+Drug_981,Gene_400,Protein_28,Anxiety,Benzodiazepine,Mechanism_21,Phase 1,Experimental
+Drug_982,Gene_183,Protein_237,Anxiety,Beta-Blocker,Mechanism_181,Preclinical,Approved
+Drug_983,Gene_373,Protein_9,Psychosis,Azapirone,Mechanism_136,Phase 3,Approved
+Drug_984,Gene_430,Protein_90,Anxiety,NaSSA,Mechanism_179,Approved,Experimental
+Drug_985,Gene_274,Protein_261,Anxiety,Orexin Antagonist,Mechanism_8,Phase 1,Approved
+Drug_986,Gene_279,Protein_152,Depression,Glycine Modulator,Mechanism_141,Phase 3,Approved
+Drug_987,Gene_385,Protein_166,Anxiety,NDRI,Mechanism_157,Phase 1,Experimental
+Drug_988,Gene_252,Protein_228,Psychosis,NaSSA,Mechanism_4,Approved,Experimental
+Drug_989,Gene_194,Protein_284,Anxiety,Psychedelic,Mechanism_21,Phase 2,Investigational
+Drug_990,Gene_230,Protein_247,Psychosis,Beta-Blocker,Mechanism_54,Phase 3,Experimental
+Drug_991,Gene_202,Protein_33,Psychosis,Azapirone,Mechanism_29,Phase 1,Approved
+Drug_992,Gene_365,Protein_171,Depression,Glycine Modulator,Mechanism_5,Preclinical,Experimental
+Drug_993,Gene_465,Protein_45,Anxiety,NDRI,Mechanism_26,Phase 3,Experimental
+Drug_994,Gene_18,Protein_14,Psychosis,Orexin Antagonist,Mechanism_28,Phase 3,Experimental
+Drug_995,Gene_19,Protein_298,Depression,Glycine Modulator,Mechanism_199,Preclinical,Investigational
+Drug_996,Gene_382,Protein_39,Depression,NDRI,Mechanism_170,Phase 2,Experimental
+Drug_997,Gene_467,Protein_177,Anxiety,Orexin Antagonist,Mechanism_114,Preclinical,Experimental
+Drug_998,Gene_397,Protein_201,Psychosis,Azapirone,Mechanism_58,Phase 2,Approved
+Drug_999,Gene_21,Protein_35,Anxiety,Psychedelic,Mechanism_27,Phase 2,Approved
+Drug_1000,Gene_54,Protein_214,Anxiety,Glycine Modulator,Mechanism_94,Phase 3,Experimental
